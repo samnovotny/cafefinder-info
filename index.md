@@ -8,7 +8,7 @@ Thank you for using our Cafefinder. Below you will find our official Support inf
 If you have any questions, encounter a bug, or need assistance using the app, please feel free to reach out.
 
 * **Contact Email:** cafefindersupport@gmail.com
-* **Response Time:** We aim to respond to all inquiries within 48 hours.
+* **Response Time:** We aim to respond to all inquiries within 3 days (excluding weekends and bank holidays).
 
 ---
 
