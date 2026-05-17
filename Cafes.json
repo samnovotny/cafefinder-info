@@ -1,0 +1,955 @@
+[
+  {
+    "notes" : [
+
+    ],
+    "id" : "4021B68D-4992-4CC2-9600-32BB61D281D8",
+    "address" : "Burbage, SN8 3RT",
+    "longitude" : "-1.6741",
+    "latitude" : "51.3385",
+    "visited" : 791639987.248906,
+    "name" : "Chopper's Cafe"
+  },
+  {
+    "longitude" : "-1.4411",
+    "notes" : [
+
+    ],
+    "latitude" : "51.2236",
+    "id" : "9B1B9B15-BA62-4C47-8FAD-0933896E21A8",
+    "name" : "Too Fast Too Filling",
+    "address" : "Andover, SP11 6RU"
+  },
+  {
+    "longitude" : "-1.5895",
+    "notes" : [
+
+    ],
+    "latitude" : "51.715",
+    "id" : "ABEB52A7-8B15-49EA-863B-5F92A11C5BF3",
+    "name" : "Blake's Kitchen",
+    "address" : "Clanfield, OX18 2SH"
+  },
+  {
+    "notes" : [
+
+    ],
+    "id" : "AD6A313B-35FF-4399-B467-8E852209DD07",
+    "address" : "Devizes, SN10 2RE",
+    "longitude" : "-2.0152",
+    "latitude" : "51.3695",
+    "visited" : 791640077.697492,
+    "name" : "Rowdey Cow"
+  },
+  {
+    "notes" : [
+
+    ],
+    "id" : "2C9CFAAD-E8D4-4EC9-B482-E45EF63614DB",
+    "address" : "",
+    "longitude" : "-1.1638003390246288",
+    "latitude" : "51.65471111813127",
+    "visited" : 791721472.877495,
+    "name" : "Wandering Kitchen"
+  },
+  {
+    "longitude" : "-1.4781",
+    "notes" : [
+
+    ],
+    "latitude" : "51.1392",
+    "id" : "D1E21F0A-660C-43D3-8F08-E63E5D0939A5",
+    "name" : "Longstock Farm Shop",
+    "address" : "Leckford Estate, SO20 6EH"
+  },
+  {
+    "longitude" : "-1.1151",
+    "notes" : [
+
+    ],
+    "latitude" : "51.6197",
+    "id" : "1DDC4470-3B39-4D49-A77C-3992DC3E821A",
+    "name" : "Waterfront Café",
+    "address" : "Benson, OX10 6SJ"
+  },
+  {
+    "longitude" : "-0.8504",
+    "notes" : [
+
+    ],
+    "latitude" : "51.3283",
+    "id" : "AAB3041E-DA2E-4217-8DE8-80A2ECF4113D",
+    "name" : "Pathfinder Cafe",
+    "address" : "Blackbushe, GU17 9LQ"
+  },
+  {
+    "longitude" : "-0.7941",
+    "notes" : [
+
+    ],
+    "latitude" : "51.3863",
+    "id" : "D881F86E-924F-4B81-BB62-E6D94AC7251E",
+    "name" : "Pinewood Bar & Cafe",
+    "address" : "Bracknell, RG40 3AQ"
+  },
+  {
+    "longitude" : "-1.1759",
+    "notes" : [
+
+    ],
+    "latitude" : "51.6585",
+    "id" : "27DE3110-2768-4552-84E4-D203DA183AE7",
+    "name" : "H Cafe",
+    "address" : "Berinsfield, OX10 7LY"
+  },
+  {
+    "longitude" : "-2.0581",
+    "notes" : [
+
+    ],
+    "latitude" : "51.6697",
+    "id" : "35299A66-339E-40F3-B502-738EA7C77FDA",
+    "name" : "AV8",
+    "address" : "Cotswold Airport, GL7 6BA"
+  },
+  {
+    "longitude" : "-1.2274",
+    "notes" : [
+
+    ],
+    "latitude" : "51.1925",
+    "id" : "258BADB5-A209-4B09-A3F2-519C8C202B24",
+    "name" : "Popham Airfield Cafe",
+    "address" : "Winchester, SO21 3AL"
+  },
+  {
+    "longitude" : "-1.8405",
+    "notes" : [
+
+    ],
+    "latitude" : "51.7833",
+    "id" : "5B07DBE7-824E-44FF-864A-9CD902934CF7",
+    "name" : "Classic Motor Hub",
+    "address" : "Ablington, GL7 5FF"
+  },
+  {
+    "longitude" : "-0.9621",
+    "notes" : [
+
+    ],
+    "latitude" : "51.2851",
+    "id" : "2C2CCE34-31A6-4850-A09D-478A6A8691D1",
+    "name" : "The Shack Cafe",
+    "address" : "Hook, RG27 9DB"
+  },
+  {
+    "longitude" : "-1.8341",
+    "notes" : [
+
+    ],
+    "latitude" : "51.8298",
+    "id" : "67C5A8D5-57C5-4400-A577-EB66CBA21B01",
+    "name" : "Old Prison Cafe",
+    "address" : "Northleach, GL54 3DE"
+  },
+  {
+    "longitude" : "-0.9671",
+    "notes" : [
+
+    ],
+    "latitude" : "51.1523",
+    "id" : "20A8A14A-F1E0-4027-BCE0-5B0DC81E2C54",
+    "name" : "Station Cafe",
+    "address" : "Alton, GU34 2PZ"
+  },
+  {
+    "longitude" : "-1.5661",
+    "notes" : [
+
+    ],
+    "latitude" : "51.1491",
+    "id" : "2957F6CF-298E-49A1-8560-8A6B6D613C4D",
+    "name" : "Apache Cafe",
+    "address" : "Middle Wallop, SO20 8DY"
+  },
+  {
+    "longitude" : "-1.4052",
+    "notes" : [
+
+    ],
+    "latitude" : "51.6045",
+    "id" : "0A0A9374-C926-443D-B585-ADBCD3861F26",
+    "name" : "Munchies",
+    "address" : "Grove, OX12 7JZ"
+  },
+  {
+    "longitude" : "-1.0251",
+    "notes" : [
+
+    ],
+    "latitude" : "51.3142",
+    "id" : "21D8C9E5-BEB1-438F-9187-113A0CB8F0B4",
+    "name" : "The Coffee Shop",
+    "address" : "Sherfield on Loddon, RG27 0EX"
+  },
+  {
+    "longitude" : "-1.3732",
+    "notes" : [
+
+    ],
+    "latitude" : "51.7831",
+    "id" : "6F84D1A0-C488-4F9E-B2E6-57D84190922A",
+    "name" : "Kingsley Cafe",
+    "address" : "Eynsham, OX29 4EN"
+  },
+  {
+    "longitude" : "-1.7845",
+    "notes" : [
+
+    ],
+    "latitude" : "51.1001",
+    "id" : "8AE95126-0F24-4791-A750-EC5A58D4ADC0",
+    "name" : "Old Sarum Airfield",
+    "address" : "Salisbury, SP4 6DZ"
+  },
+  {
+    "longitude" : "-1.0757",
+    "notes" : [
+
+    ],
+    "latitude" : "51.0304",
+    "id" : "A6BA2D83-5065-490E-B34C-DCE1F3C9FBB2",
+    "name" : "Loomies Moto Cafe",
+    "address" : "West Meon, GU32 1JX"
+  },
+  {
+    "longitude" : "-0.6981",
+    "notes" : [
+
+    ],
+    "latitude" : "51.5245",
+    "id" : "415C37B9-F0F5-406C-8D5A-71C03E873116",
+    "name" : "Jenners Cafe",
+    "address" : "Maidenhead, SL6 8NP"
+  },
+  {
+    "longitude" : "-1.0112",
+    "notes" : [
+
+    ],
+    "latitude" : "51.7112",
+    "id" : "2192742D-725F-4655-9497-4C5547DA1012",
+    "name" : "Old Red Lion",
+    "address" : "Tetsworth, OX9 7AS"
+  },
+  {
+    "longitude" : "-2.2514",
+    "notes" : [
+
+    ],
+    "latitude" : "51.3482",
+    "id" : "9E15932B-A6E9-4A84-9140-B881C1E256DA",
+    "name" : "5 Zeros Supercar Diner",
+    "address" : "Bradford on Avon, BA15 1NF"
+  },
+  {
+    "longitude" : "-2.2214",
+    "notes" : [
+
+    ],
+    "latitude" : "51.8616",
+    "id" : "3D381B40-D7DA-4D31-A48A-CE8A89519D07",
+    "name" : "Oily Rag",
+    "address" : "Gloucester, GL1 1AJ"
+  },
+  {
+    "longitude" : "-1.4713",
+    "notes" : [
+
+    ],
+    "latitude" : "51.8859",
+    "id" : "C7B4BFE2-A34B-4E51-8616-966ED33AC458",
+    "name" : "The Old Shed",
+    "address" : "Charlbury, OX7 3JH"
+  },
+  {
+    "longitude" : "-0.9021",
+    "notes" : [
+
+    ],
+    "latitude" : "51.0121",
+    "id" : "665401FA-324C-4448-B35B-BC713BB632D9",
+    "name" : "Sky Park Farm",
+    "address" : "Petersfield, GU31 5PT"
+  },
+  {
+    "longitude" : "-0.9512",
+    "notes" : [
+
+    ],
+    "latitude" : "51.1852",
+    "id" : "E5B998C4-4D11-4D7A-B6D9-D98241721D03",
+    "name" : "Departure Lounge",
+    "address" : "Alton, GU34 4BH"
+  },
+  {
+    "longitude" : "-0.9123",
+    "notes" : [
+
+    ],
+    "latitude" : "51.7011",
+    "id" : "23429801-25CC-49C9-9DBA-EBA5FB8E7531",
+    "name" : "Biker Bean Cafe",
+    "address" : "Chinnor, OX39 4BB"
+  },
+  {
+    "longitude" : "-1.7341",
+    "notes" : [
+
+    ],
+    "latitude" : "51.9812",
+    "id" : "3A0920EE-3CA1-4980-A755-D540C9EA32CD",
+    "name" : "Cotswold Barn Cafe",
+    "address" : "Moreton in Marsh, GL56 0QN"
+  },
+  {
+    "longitude" : "-1.4292",
+    "notes" : [
+
+    ],
+    "latitude" : "51.9851",
+    "id" : "1BF6650A-9469-4341-8258-EAE63C3A5678",
+    "name" : "Krazy Horse",
+    "address" : "Chipping Norton, OX7 4BN"
+  },
+  {
+    "longitude" : "-1.1321",
+    "notes" : [
+
+    ],
+    "latitude" : "51.8812",
+    "id" : "150764F4-6D9C-4CEB-8B4B-4DAF9191CFC1",
+    "name" : "Bicester Bean Cafe",
+    "address" : "Bicester, OX26 6RA"
+  },
+  {
+    "longitude" : "-1.5891",
+    "notes" : [
+
+    ],
+    "latitude" : "51.9682",
+    "id" : "1796D4D5-A0DC-4AC6-A125-1E795527C991",
+    "name" : "Cotswold Cafe",
+    "address" : "Little Compton, GL56 0RZ"
+  },
+  {
+    "longitude" : "-1.7651",
+    "notes" : [
+
+    ],
+    "latitude" : "52.0012",
+    "id" : "39C79E38-E8BE-4EC5-9827-A9B44DE398E6",
+    "name" : "Blockley Cafe",
+    "address" : "Moreton in Marsh, GL56 9DN"
+  },
+  {
+    "longitude" : "-1.9451",
+    "notes" : [
+
+    ],
+    "latitude" : "51.6912",
+    "id" : "6B7B9673-88B8-4429-AADA-092951413BD5",
+    "name" : "CTL Motor Company",
+    "address" : "Cirencester, GL7 5DT"
+  },
+  {
+    "longitude" : "-1.929",
+    "notes" : [
+
+    ],
+    "latitude" : "51.9888",
+    "id" : "0C31F92F-A2B1-4EA8-90C1-DF8F78448F3B",
+    "name" : "Cotswold Halt Cafe",
+    "address" : "Toddington, GL54 5DT"
+  },
+  {
+    "longitude" : "-2.1629",
+    "notes" : [
+
+    ],
+    "latitude" : "51.9912",
+    "id" : "68FA543B-1CB7-4D9D-86CA-6405A60D4FE6",
+    "name" : "Abbey Mill",
+    "address" : "Tewkesbury, GL20 5SB"
+  },
+  {
+    "longitude" : "-1.9123",
+    "notes" : [
+
+    ],
+    "latitude" : "51.6582",
+    "id" : "BAE81917-4311-44E9-9E0C-5B2CC95A4E6D",
+    "name" : "Carle's Cafe",
+    "address" : "Cerney Wick, GL7 5LW"
+  },
+  {
+    "longitude" : "-2.2712",
+    "notes" : [
+
+    ],
+    "latitude" : "51.0371",
+    "id" : "EB899C4F-0A6C-4D8B-933B-C55CE2350687",
+    "name" : "Old Brewery",
+    "address" : "Gillingham, SP8 4NW"
+  },
+  {
+    "longitude" : "-2.4503",
+    "notes" : [
+
+    ],
+    "latitude" : "51.7961",
+    "id" : "464C47FD-E529-42DC-832A-11ADA9E5EF48",
+    "name" : "Silver Fox Cafe",
+    "address" : "Newnham, GL14 1HH"
+  },
+  {
+    "longitude" : "-1.7021",
+    "notes" : [
+
+    ],
+    "latitude" : "51.9881",
+    "id" : "3919B2BD-F97A-420E-85BF-B7C9969C8619",
+    "name" : "Mr Watsons Bus Cafe",
+    "address" : "Moreton in Marsh, GL56 9AJ"
+  },
+  {
+    "longitude" : "-1.6833",
+    "notes" : [
+
+    ],
+    "latitude" : "50.7963",
+    "id" : "32F0D620-2FE8-449F-A15D-A634BDC050B8",
+    "name" : "Old Station Tea Rooms",
+    "address" : "Holmsley, BH24 4HY"
+  },
+  {
+    "longitude" : "-1.9281",
+    "notes" : [
+
+    ],
+    "latitude" : "51.9741",
+    "id" : "D4CC552F-1A27-4B0B-95CD-729E7F4DAE1A",
+    "name" : "Orchard Cafe",
+    "address" : "Cheltenham, GL54 5PB"
+  },
+  {
+    "longitude" : "-2.1582",
+    "notes" : [
+
+    ],
+    "latitude" : "50.9671",
+    "id" : "ED690BB5-B5A0-4902-8C4F-F40C72D04146",
+    "name" : "Compton Abbas Airfield",
+    "address" : "Shaftesbury, SP7 0EL"
+  },
+  {
+    "longitude" : "-1.1123",
+    "notes" : [
+
+    ],
+    "latitude" : "52.0412",
+    "id" : "61FCB1DD-58A0-4540-9302-F66F6E1A37EA",
+    "name" : "Flight Deck Cafe",
+    "address" : "Turweston, NN13 5YD"
+  },
+  {
+    "longitude" : "-1.6733",
+    "notes" : [
+
+    ],
+    "latitude" : "50.7657",
+    "id" : "BCABFAA1-6AB6-49D3-8C9B-87D2C46E63C7",
+    "name" : "Sammy Miller Museum",
+    "address" : "New Milton, BH25 5SZ"
+  },
+  {
+    "longitude" : "-0.3235",
+    "notes" : [
+
+    ],
+    "latitude" : "51.2505",
+    "id" : "DACDD2DA-8372-4987-A90B-C6143F9605E5",
+    "name" : "Ryka's Cafe",
+    "address" : "Box Hill, RH5 6BY"
+  },
+  {
+    "longitude" : "-2.5577",
+    "notes" : [
+
+    ],
+    "latitude" : "51.0409",
+    "id" : "BBC2E8CB-DE95-4B2C-AEE9-94B6B09895FA",
+    "name" : "Haynes Motor Museum",
+    "address" : "Sparkford, BA22 7LH"
+  },
+  {
+    "longitude" : "-1.1212",
+    "notes" : [
+
+    ],
+    "latitude" : "50.7941",
+    "id" : "873DA45F-9866-4DF4-BCE3-E7AE26C09FBF",
+    "name" : "The Rolling Scones",
+    "address" : "Gosport, PO12 1FG"
+  },
+  {
+    "longitude" : "-0.9075",
+    "notes" : [
+
+    ],
+    "latitude" : "52.0873",
+    "id" : "89EDB890-D283-4B64-802C-9BF4FC378A43",
+    "name" : "Super Sausage",
+    "address" : "Potterspury, NN12 7QD"
+  },
+  {
+    "longitude" : "-1.2012",
+    "notes" : [
+
+    ],
+    "latitude" : "50.8012",
+    "id" : "6DE4D4BF-99BB-492C-BCF2-444B7A6594AD",
+    "name" : "Penguin Cafe",
+    "address" : "Lee on Solent, PO13 9NS"
+  },
+  {
+    "longitude" : "-1.0612",
+    "notes" : [
+
+    ],
+    "latitude" : "50.8521",
+    "id" : "9EE23F81-0C38-4925-BD30-F597F6A6C00E",
+    "name" : "Micks Monster Burgers",
+    "address" : "Portsdown Hill, PO6 3LS"
+  },
+  {
+    "longitude" : "-1.5018",
+    "notes" : [
+
+    ],
+    "latitude" : "52.155",
+    "id" : "B696F9A1-C818-4CF0-8FD8-FA65F307A09A",
+    "name" : "Gilks' Garage Café",
+    "address" : "Kineton, CV35 0JZ"
+  },
+  {
+    "longitude" : "-2.6201",
+    "notes" : [
+
+    ],
+    "latitude" : "51.7938",
+    "id" : "957A9596-D99B-45F2-AFF2-104AC360645F",
+    "name" : "Vintage Metals",
+    "address" : "Coleford, GL16 8JR"
+  },
+  {
+    "longitude" : "-0.7934",
+    "notes" : [
+
+    ],
+    "latitude" : "52.1932",
+    "id" : "A21603BD-87EA-444E-8056-B20DA8913E6A",
+    "name" : "Gasoline Juice",
+    "address" : "Northampton, NN7 4PS"
+  },
+  {
+    "longitude" : "-0.7512",
+    "notes" : [
+
+    ],
+    "latitude" : "50.8412",
+    "id" : "538F23B9-0D0A-4455-B834-DD387BB0B29D",
+    "name" : "Fuel Stop Cafe",
+    "address" : "Chichester, PO18 8RL"
+  },
+  {
+    "longitude" : "-1.9532",
+    "notes" : [
+
+    ],
+    "latitude" : "50.7191",
+    "id" : "B27CF658-96E1-432D-A184-56854ACA5439",
+    "name" : "Coast . Surf + Moto",
+    "address" : "Poole, BH14 8BL"
+  },
+  {
+    "longitude" : "-0.8412",
+    "notes" : [
+
+    ],
+    "latitude" : "52.0812",
+    "id" : "118E7A9B-B28A-4F0D-90C0-CDA1ECB60F64",
+    "name" : "The Bike Sanctuary",
+    "address" : "Near MK, MK19 6DG"
+  },
+  {
+    "longitude" : "-1.5412",
+    "notes" : [
+
+    ],
+    "latitude" : "50.7582",
+    "id" : "238B859F-5FD1-4FA9-8C08-0C9046EF308C",
+    "name" : "777 Motorcycle Cafe",
+    "address" : "Lymington, SO41 9BG"
+  },
+  {
+    "longitude" : "-0.2931",
+    "notes" : [
+
+    ],
+    "latitude" : "52.1291",
+    "id" : "C521C2EC-4DA4-434C-A7D2-3D0C969143CF",
+    "name" : "Amici Coffee",
+    "address" : "Sandy, SG19 1NA"
+  },
+  {
+    "longitude" : "-0.4512",
+    "notes" : [
+
+    ],
+    "latitude" : "51.0212",
+    "id" : "BB3D2E75-4EA4-456D-844F-39B6E9A532FE",
+    "name" : "Billy's on the Road",
+    "address" : "Billingshurst, RH14 9EZ"
+  },
+  {
+    "longitude" : "-1.6133",
+    "notes" : [
+
+    ],
+    "latitude" : "52.1923",
+    "id" : "D5F08088-3A8B-419E-9D04-80E2D017F27E",
+    "name" : "Touchdown Cafe",
+    "address" : "Wellesbourne, CV35 9EU"
+  },
+  {
+    "longitude" : "-3.0012",
+    "notes" : [
+
+    ],
+    "latitude" : "51.7271",
+    "id" : "5CB6E703-D0E0-4380-A804-32893D27B3CA",
+    "name" : "Baffle Haus",
+    "address" : "Goytre, NP4 0AD"
+  },
+  {
+    "longitude" : "-2.9612",
+    "notes" : [
+
+    ],
+    "latitude" : "51.2182",
+    "id" : "58B24A98-68DF-4C00-866B-38E5ACC1C0B7",
+    "name" : "Ollie's",
+    "address" : "Highbridge, TA9 4HJ"
+  },
+  {
+    "longitude" : "-0.4212",
+    "notes" : [
+
+    ],
+    "latitude" : "51.0512",
+    "id" : "03B0813E-634D-481E-ABF3-71F232E8DEA6",
+    "name" : "Milk Churn Cafe",
+    "address" : "Horsham, RH12 3AL"
+  },
+  {
+    "longitude" : "-0.6123",
+    "notes" : [
+
+    ],
+    "latitude" : "50.8123",
+    "id" : "1BD2D46A-F0ED-49FF-98B1-96A8B3E07048",
+    "name" : "Cease Fire Cafe",
+    "address" : "Yapton, BN18 0AS"
+  },
+  {
+    "longitude" : "-0.7931",
+    "notes" : [
+
+    ],
+    "latitude" : "52.3045",
+    "id" : "5F315C94-B5CD-4C4A-AB37-8F09013CE705",
+    "name" : "Sywell Aerodrome",
+    "address" : "Sywell, NN6 0BN"
+  },
+  {
+    "longitude" : "-1.6341",
+    "notes" : [
+
+    ],
+    "latitude" : "52.2312",
+    "id" : "93DFFB69-C4C7-4458-8B33-323004DA1F37",
+    "name" : "The Piston Club",
+    "address" : "Stratford, CV37 0RE"
+  },
+  {
+    "longitude" : "-0.3298",
+    "notes" : [
+
+    ],
+    "latitude" : "51.0631",
+    "id" : "ADF2B5A8-B8A9-41C1-AD90-891E9FD8FD65",
+    "name" : "Torque Moto Cafe",
+    "address" : "Horsham, RH12 3AU"
+  },
+  {
+    "longitude" : "0.0312",
+    "notes" : [
+
+    ],
+    "latitude" : "51.3282",
+    "id" : "26111B1F-C674-4B24-8670-01D829EF8B46",
+    "name" : "Spitfire Cafe",
+    "address" : "Biggin Hill, TN16 3BN"
+  },
+  {
+    "longitude" : "-0.6192",
+    "notes" : [
+
+    ],
+    "latitude" : "51.9882",
+    "id" : "40B98BB6-44EF-4995-825F-6C86CBB6349E",
+    "name" : "Emma's Cafe",
+    "address" : "Woburn, MK17 9PY"
+  },
+  {
+    "longitude" : "-3.4512",
+    "notes" : [
+
+    ],
+    "latitude" : "51.4612",
+    "id" : "D2138F6A-898B-450F-9510-022051421AE0",
+    "name" : "New Baffle Haus",
+    "address" : "Cowbridge, CF71 7FF"
+  },
+  {
+    "longitude" : "-1.3912",
+    "notes" : [
+
+    ],
+    "latitude" : "52.2812",
+    "id" : "CA850AD2-F791-4BAE-93FD-72D29F89344A",
+    "name" : "Long Itch Diner",
+    "address" : "Southam, CV47 9QZ"
+  },
+  {
+    "longitude" : "-2.4542",
+    "notes" : [
+
+    ],
+    "latitude" : "50.5121",
+    "id" : "FDADB628-AE25-40E2-88BE-7C59FA776B6C",
+    "name" : "Lobster Pot",
+    "address" : "Portland Bill, DT5 2JT"
+  },
+  {
+    "longitude" : "-2.4351",
+    "notes" : [
+
+    ],
+    "latitude" : "50.7142",
+    "id" : "4142F2F8-62D0-415B-9751-C77CFE72801A",
+    "name" : "Snug Cafe",
+    "address" : "Dorchester, DT1 1EB"
+  },
+  {
+    "longitude" : "-2.6412",
+    "notes" : [
+
+    ],
+    "latitude" : "51.2112",
+    "id" : "118C2483-B046-405F-94D9-908C780848A8",
+    "name" : "Garage 6",
+    "address" : "Wells, BA5 1RQ"
+  },
+  {
+    "longitude" : "-2.6482",
+    "notes" : [
+
+    ],
+    "latitude" : "51.2082",
+    "id" : "DE924B52-E703-4556-9CA8-6906228CEDB5",
+    "name" : "Quickshifter Coffee",
+    "address" : "Wells, BA5 1UA"
+  },
+  {
+    "longitude" : "-3.0182",
+    "notes" : [
+
+    ],
+    "latitude" : "51.8212",
+    "id" : "56378952-C8EF-48FF-A89F-04778CC3800F",
+    "name" : "Copper Kettle",
+    "address" : "Abergavenny, NP7 5PU"
+  },
+  {
+    "longitude" : "-3.0512",
+    "notes" : [
+
+    ],
+    "latitude" : "51.8312",
+    "id" : "AE0E5F4B-0017-4FD0-9202-8D7E45D001DC",
+    "name" : "Roadhouse",
+    "address" : "Llanwenarth, NP7 7EW"
+  },
+  {
+    "longitude" : "0.4012",
+    "notes" : [
+
+    ],
+    "latitude" : "50.8612",
+    "id" : "21ABC85F-C6AD-472D-ABCA-7D062FAC513D",
+    "name" : "Custom Cafe",
+    "address" : "Bexhill, TN39 4FG"
+  },
+  {
+    "longitude" : "0.2512",
+    "notes" : [
+
+    ],
+    "latitude" : "50.9682",
+    "id" : "9FDA6075-3936-4FF7-8861-40EFDFEB5459",
+    "name" : "Butchers Hook",
+    "address" : "Heathfield, TN21 8QU"
+  },
+  {
+    "longitude" : "-1.5063",
+    "notes" : [
+
+    ],
+    "latitude" : "52.7051",
+    "id" : "A0729B91-4B12-4749-A2E7-BA62896ADE7D",
+    "name" : "Pot Kiln Farm",
+    "address" : "Measham, DE12 7HA"
+  },
+  {
+    "longitude" : "-1.3782",
+    "notes" : [
+
+    ],
+    "latitude" : "52.8312",
+    "id" : "4372D426-119A-4C53-A7B2-86CD3606030F",
+    "name" : "Factory Heads",
+    "address" : "Donington Park, DE74 2RP"
+  },
+  {
+    "longitude" : "-3.7923",
+    "notes" : [
+
+    ],
+    "latitude" : "51.9945",
+    "id" : "9794643D-EC3B-4371-8167-BA89FC8AAFE0",
+    "name" : "Owls Nest",
+    "address" : "Llandovery, SA20 0DJ"
+  },
+  {
+    "longitude" : "-2.3812",
+    "notes" : [
+
+    ],
+    "latitude" : "52.7682",
+    "id" : "94C91DA9-FBBA-4E2C-94F1-9EC218B1AC41",
+    "name" : "Dragon Soul Biker Cafe",
+    "address" : "Newport (Salop), TF10 7DW"
+  },
+  {
+    "longitude" : "-2.7123",
+    "notes" : [
+
+    ],
+    "latitude" : "52.7312",
+    "id" : "3D168D73-920E-4E61-ABAD-46E25B6545EC",
+    "name" : "Fast Track Diner",
+    "address" : "Shrewsbury, SY1 3AH"
+  },
+  {
+    "longitude" : "-3.6512",
+    "notes" : [
+
+    ],
+    "latitude" : "50.5612",
+    "id" : "A19E211A-CF1B-43BE-9009-457E275CE380",
+    "name" : "Josies (Jolly Roger)",
+    "address" : "Newton Abbot, TQ12 6RE"
+  },
+  {
+    "longitude" : "-3.2214",
+    "notes" : [
+
+    ],
+    "latitude" : "53.1512",
+    "id" : "76235CC6-8EEF-4759-ACA7-2008FC8439A2",
+    "name" : "Old Stores Biker Cafe",
+    "address" : "Mold, CH7 4RZ"
+  },
+  {
+    "longitude" : "-4.0812",
+    "notes" : [
+
+    ],
+    "latitude" : "52.4123",
+    "id" : "B1E82256-3E52-403D-8599-4A12EC7E029B",
+    "name" : "Two Hoots",
+    "address" : "Aberystwyth, SY23 3AX"
+  },
+  {
+    "longitude" : "-1.517152502183788",
+    "notes" : [
+
+    ],
+    "latitude" : "51.41380969661269",
+    "id" : "1C9C337D-AAF9-4A2D-8D6F-C8D4717D30C2",
+    "name" : "Emma’s cafe ",
+    "address" : "Pure Triumph, George Street, Woburn MK17 NPY"
+  },
+  {
+    "longitude" : "-1.5171768637538972",
+    "notes" : [
+
+    ],
+    "latitude" : "51.41381311263478",
+    "id" : "9E834BD2-093A-449C-B6B1-54AE115451E9",
+    "name" : "Jackson’s cafe ",
+    "address" : "California country park RG40 4HU"
+  },
+  {
+    "longitude" : "-1.5171768637538965",
+    "notes" : [
+
+    ],
+    "latitude" : "51.41381311263478",
+    "id" : "8C7EEACC-6CDD-4E28-A7D9-268D90A7C4C4",
+    "name" : "Route 66",
+    "address" : "Portsdown Hill"
+  },
+  {
+    "longitude" : "-1.5171768637538965",
+    "notes" : [
+
+    ],
+    "latitude" : "51.41381311263478",
+    "id" : "BBE23EEC-CEB7-41A4-8786-1B79571A136C",
+    "name" : "Garden Shed cafe",
+    "address" : "Wellesbourne"
+  },
+  {
+    "longitude" : "-1.5171768637538967",
+    "notes" : [
+
+    ],
+    "latitude" : "51.41381311263478",
+    "id" : "19243643-2C6F-4A4E-96E0-467C40DC2301",
+    "name" : "Motorsportopia",
+    "address" : "Marsh Gibbon, Bicester"
+  }
+]
