@@ -1,2 +1,2 @@
-Bikercafes.json
-Cafes - boys trip.json
+Bikercafes
+Cafes - boys trip
