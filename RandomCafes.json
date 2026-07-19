@@ -1,0 +1,1370 @@
+[
+  {
+    "latitude" : "51.3482",
+    "notes" : [
+
+    ],
+    "name" : "5 Zeros Supercar Diner",
+    "address" : "Bradford on Avon, BA15 1NF",
+    "longitude" : "-2.2514",
+    "id" : "9E15932B-A6E9-4A84-9140-B881C1E256DA",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.7582",
+    "notes" : [
+
+    ],
+    "name" : "777 Motorcycle Cafe",
+    "address" : "Lymington, SO41 9BG",
+    "longitude" : "-1.5412",
+    "id" : "238B859F-5FD1-4FA9-8C08-0C9046EF308C",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.9912",
+    "notes" : [
+
+    ],
+    "name" : "Abbey Mill",
+    "address" : "Tewkesbury, GL20 5SB",
+    "longitude" : "-2.1629",
+    "id" : "68FA543B-1CB7-4D9D-86CA-6405A60D4FE6",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.1291",
+    "notes" : [
+
+    ],
+    "name" : "Amici Coffee",
+    "address" : "Sandy, SG19 1NA",
+    "longitude" : "-0.2931",
+    "id" : "C521C2EC-4DA4-434C-A7D2-3D0C969143CF",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.1491",
+    "notes" : [
+
+    ],
+    "name" : "Apache Cafe",
+    "address" : "Middle Wallop, SO20 8DY",
+    "longitude" : "-1.5661",
+    "id" : "2957F6CF-298E-49A1-8560-8A6B6D613C4D",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.6697",
+    "notes" : [
+
+    ],
+    "name" : "AV8",
+    "address" : "Cotswold Airport, GL7 6BA",
+    "longitude" : "-2.0581",
+    "id" : "35299A66-339E-40F3-B502-738EA7C77FDA",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "49.05282088513367",
+    "notes" : [
+      "B&B hotel"
+    ],
+    "name" : "B&B hotel",
+    "address" : "2 Allée du Général Alberico Albricci, 51200 Épernay, France",
+    "longitude" : "3.9552279012993155",
+    "id" : "CBF138AF-E8BC-4DB1-8BCB-BA423F23F020",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.7271",
+    "notes" : [
+
+    ],
+    "name" : "Baffle Haus",
+    "address" : "Goytre, NP4 0AD",
+    "longitude" : "-3.0012",
+    "id" : "5CB6E703-D0E0-4380-A804-32893D27B3CA",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.77674582090842",
+    "notes" : [
+
+    ],
+    "name" : "Beach hut cafe",
+    "address" : "128 West Wittering Estate Beach Huts, Pound Road, Chichester, PO20 8AJ, England",
+    "longitude" : "-0.9088070439851735",
+    "id" : "FCE3FBC0-7267-4F4A-ACBD-57BE712BF677",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "49.0438432289461",
+    "notes" : [
+
+    ],
+    "name" : "Best bar in Epernay. ",
+    "address" : "5 Place de la République, 51200 Épernay, France",
+    "longitude" : "3.9566271676387204",
+    "id" : "EEA5F373-71DB-4F4D-8749-B5E838E57361",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.8812",
+    "notes" : [
+
+    ],
+    "name" : "Bicester Bean Cafe",
+    "address" : "Bicester, OX26 6RA",
+    "longitude" : "-1.1321",
+    "id" : "150764F4-6D9C-4CEB-8B4B-4DAF9191CFC1",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.7011",
+    "notes" : [
+
+    ],
+    "name" : "Biker Bean Cafe",
+    "address" : "Chinnor, OX39 4BB",
+    "longitude" : "-0.9123",
+    "id" : "23429801-25CC-49C9-9DBA-EBA5FB8E7531",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.0212",
+    "notes" : [
+
+    ],
+    "name" : "Billy's on the Road",
+    "address" : "Billingshurst, RH14 9EZ",
+    "longitude" : "-0.4512",
+    "id" : "BB3D2E75-4EA4-456D-844F-39B6E9A532FE",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.715",
+    "notes" : [
+
+    ],
+    "name" : "Blake's Kitchen",
+    "address" : "Clanfield, OX18 2SH",
+    "longitude" : "-1.5895",
+    "id" : "ABEB52A7-8B15-49EA-863B-5F92A11C5BF3",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.0012",
+    "notes" : [
+
+    ],
+    "name" : "Blockley Cafe",
+    "address" : "Moreton in Marsh, GL56 9DN",
+    "longitude" : "-1.7651",
+    "id" : "39C79E38-E8BE-4EC5-9827-A9B44DE398E6",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "47.235256286360844",
+    "notes" : [
+
+    ],
+    "name" : "Brasserie Granvelle",
+    "address" : "Place Granvelle, 3 Place Granvelle, 25000 Besançon, France",
+    "longitude" : "6.025804301685005",
+    "id" : "90CC7A10-FEC8-4B07-B4EF-D2B357F72314",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.4926954",
+    "notes" : [
+
+    ],
+    "name" : "Buckfast Abbey",
+    "address" : "Methodist Church, Buckfast Road, Buckfastleigh, TQ11 0EA, England",
+    "longitude" : "-3.7760675",
+    "id" : "FE197B60-F8AA-4D82-B49D-B4168DDB98FD",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.9682",
+    "notes" : [
+
+    ],
+    "name" : "Butchers Hook",
+    "address" : "Heathfield, TN21 8QU",
+    "longitude" : "0.2512",
+    "id" : "9FDA6075-3936-4FF7-8861-40EFDFEB5459",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "47.7407108435222",
+    "notes" : [
+
+    ],
+    "name" : "Cafe  Bockstaller",
+    "address" : "Hohwehraweg 3, Todtmoos, 79682 Todtmoos, Germany",
+    "longitude" : "8.005102566223597",
+    "id" : "994C7A11-FBF8-4E9B-A671-16F475A8B1C6",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "47.16715837298907",
+    "notes" : [
+
+    ],
+    "name" : "Cafe in Buchs",
+    "address" : "Seeweg Süd, Buchs, Switzerland",
+    "longitude" : "9.465066576100792",
+    "id" : "C8312B66-8E4B-42BB-954A-755F535A03F1",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.6582",
+    "notes" : [
+
+    ],
+    "name" : "Carle's Cafe",
+    "address" : "Cerney Wick, GL7 5LW",
+    "longitude" : "-1.9123",
+    "id" : "BAE81917-4311-44E9-9E0C-5B2CC95A4E6D",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.8123",
+    "notes" : [
+
+    ],
+    "name" : "Cease Fire Cafe",
+    "address" : "Yapton, BN18 0AS",
+    "longitude" : "-0.6123",
+    "id" : "1BD2D46A-F0ED-49FF-98B1-96A8B3E07048",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.3385",
+    "notes" : [
+
+    ],
+    "name" : "Chopper's Cafe",
+    "address" : "Burbage, SN8 3RT",
+    "longitude" : "-1.6741",
+    "id" : "4021B68D-4992-4CC2-9600-32BB61D281D8",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.7833",
+    "notes" : [
+
+    ],
+    "name" : "Classic Motor Hub",
+    "address" : "Ablington, GL7 5FF",
+    "longitude" : "-1.8405",
+    "id" : "5B07DBE7-824E-44FF-864A-9CD902934CF7",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.7191",
+    "notes" : [
+
+    ],
+    "name" : "Coast . Surf + Moto",
+    "address" : "Poole, BH14 8BL",
+    "longitude" : "-1.9532",
+    "id" : "B27CF658-96E1-432D-A184-56854ACA5439",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.9671",
+    "notes" : [
+
+    ],
+    "name" : "Compton Abbas Airfield",
+    "address" : "Shaftesbury, SP7 0EL",
+    "longitude" : "-2.1582",
+    "id" : "ED690BB5-B5A0-4902-8C4F-F40C72D04146",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.8212",
+    "notes" : [
+
+    ],
+    "name" : "Copper Kettle",
+    "address" : "Abergavenny, NP7 5PU",
+    "longitude" : "-3.0182",
+    "id" : "56378952-C8EF-48FF-A89F-04778CC3800F",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.9812",
+    "notes" : [
+
+    ],
+    "name" : "Cotswold Barn Cafe",
+    "address" : "Moreton in Marsh, GL56 0QN",
+    "longitude" : "-1.7341",
+    "id" : "3A0920EE-3CA1-4980-A755-D540C9EA32CD",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.9682",
+    "notes" : [
+
+    ],
+    "name" : "Cotswold Cafe",
+    "address" : "Little Compton, GL56 0RZ",
+    "longitude" : "-1.5891",
+    "id" : "1796D4D5-A0DC-4AC6-A125-1E795527C991",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.9888",
+    "notes" : [
+
+    ],
+    "name" : "Cotswold Halt Cafe",
+    "address" : "Toddington, GL54 5DT",
+    "longitude" : "-1.929",
+    "id" : "0C31F92F-A2B1-4EA8-90C1-DF8F78448F3B",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.6912",
+    "notes" : [
+
+    ],
+    "name" : "CTL Motor Company",
+    "address" : "Cirencester, GL7 5DT",
+    "longitude" : "-1.9451",
+    "id" : "6B7B9673-88B8-4429-AADA-092951413BD5",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.8612",
+    "notes" : [
+
+    ],
+    "name" : "Custom Cafe",
+    "address" : "Bexhill, TN39 4FG",
+    "longitude" : "0.4012",
+    "id" : "21ABC85F-C6AD-472D-ABCA-7D062FAC513D",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.1852",
+    "notes" : [
+
+    ],
+    "name" : "Departure Lounge",
+    "address" : "Alton, GU34 4BH",
+    "longitude" : "-0.9512",
+    "id" : "E5B998C4-4D11-4D7A-B6D9-D98241721D03",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.7682",
+    "notes" : [
+
+    ],
+    "name" : "Dragon Soul Biker Cafe",
+    "address" : "Newport (Salop), TF10 7DW",
+    "longitude" : "-2.3812",
+    "id" : "94C91DA9-FBBA-4E2C-94F1-9EC218B1AC41",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.9882",
+    "notes" : [
+
+    ],
+    "name" : "Emma's Cafe",
+    "address" : "Woburn, MK17 9PY",
+    "longitude" : "-0.6192",
+    "id" : "40B98BB6-44EF-4995-825F-6C86CBB6349E",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.41380969661269",
+    "notes" : [
+
+    ],
+    "name" : "Emma’s cafe ",
+    "address" : "Pure Triumph, George Street, Woburn MK17 NPY",
+    "longitude" : "-1.517152502183788",
+    "id" : "1C9C337D-AAF9-4A2D-8D6F-C8D4717D30C2",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.8312",
+    "notes" : [
+
+    ],
+    "name" : "Factory Heads",
+    "address" : "Donington Park, DE74 2RP",
+    "longitude" : "-1.3782",
+    "id" : "4372D426-119A-4C53-A7B2-86CD3606030F",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.7312",
+    "notes" : [
+
+    ],
+    "name" : "Fast Track Diner",
+    "address" : "Shrewsbury, SY1 3AH",
+    "longitude" : "-2.7123",
+    "id" : "3D168D73-920E-4E61-ABAD-46E25B6545EC",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.0412",
+    "notes" : [
+
+    ],
+    "name" : "Flight Deck Cafe",
+    "address" : "Turweston, NN13 5YD",
+    "longitude" : "-1.1123",
+    "id" : "61FCB1DD-58A0-4540-9302-F66F6E1A37EA",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.8412",
+    "notes" : [
+
+    ],
+    "name" : "Fuel Stop Cafe",
+    "address" : "Chichester, PO18 8RL",
+    "longitude" : "-0.7512",
+    "id" : "538F23B9-0D0A-4455-B834-DD387BB0B29D",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.2112",
+    "notes" : [
+
+    ],
+    "name" : "Garage 6",
+    "address" : "Wells, BA5 1RQ",
+    "longitude" : "-2.6412",
+    "id" : "118C2483-B046-405F-94D9-908C780848A8",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.41381311263478",
+    "notes" : [
+
+    ],
+    "name" : "Garden Shed cafe",
+    "address" : "Wellesbourne",
+    "longitude" : "-1.5171768637538965",
+    "id" : "BBE23EEC-CEB7-41A4-8786-1B79571A136C",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.1932",
+    "notes" : [
+
+    ],
+    "name" : "Gasoline Juice",
+    "address" : "Northampton, NN7 4PS",
+    "longitude" : "-0.7934",
+    "id" : "A21603BD-87EA-444E-8056-B20DA8913E6A",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.155",
+    "notes" : [
+
+    ],
+    "name" : "Gilks' Garage Café",
+    "address" : "Kineton, CV35 0JZ",
+    "longitude" : "-1.5018",
+    "id" : "B696F9A1-C818-4CF0-8FD8-FA65F307A09A",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.6585",
+    "notes" : [
+
+    ],
+    "name" : "H Cafe",
+    "address" : "Berinsfield, OX10 7LY",
+    "longitude" : "-1.1759",
+    "id" : "27DE3110-2768-4552-84E4-D203DA183AE7",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.0409",
+    "notes" : [
+
+    ],
+    "name" : "Haynes Motor Museum",
+    "address" : "Sparkford, BA22 7LH",
+    "longitude" : "-2.5577",
+    "id" : "BBC2E8CB-DE95-4B2C-AEE9-94B6B09895FA",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.349355929068004",
+    "notes" : [
+
+    ],
+    "name" : "Hotel 1",
+    "address" : "5332, Assesse, Belgium",
+    "longitude" : "4.955399179681947",
+    "id" : "A4C6F66F-9D9A-4C2C-868F-EB474977AF0D",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "48.75215640526256",
+    "notes" : [
+
+    ],
+    "name" : "Hotel 2",
+    "address" : "Falkenstraße 2, Innenstadt, 76530 Baden-Baden, Germany",
+    "longitude" : "8.245387425886703",
+    "id" : "BCBD7314-4CE0-41BC-8BEA-C0570C70A712",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "47.81646074131066",
+    "notes" : [
+
+    ],
+    "name" : "Hotel 3",
+    "address" : "Faulenfürster Straße 4, 79859 Schluchsee, Germany",
+    "longitude" : "8.18063015647708",
+    "id" : "5F6EFB0C-B26C-4EF7-BFC1-DFEE2E99AAA8",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "46.071704922640194",
+    "notes" : [
+
+    ],
+    "name" : "Hotel 5",
+    "address" : "Casali Darbedo 25, 28822 Cannobio VB, Italy",
+    "longitude" : "8.69284580110737",
+    "id" : "E3B532B9-E79E-4D21-88A9-355857A5222E",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "47.05662397211298",
+    "notes" : [
+
+    ],
+    "name" : "Hotel 6",
+    "address" : "Rue du Temple 27, 2400 Le Locle, Switzerland",
+    "longitude" : "6.747136262255624",
+    "id" : "3EC9B09D-8900-4B44-B3B0-224B35FABCF8",
+    "website" : "https:\/\/hoteldestroisrois.ch\/en\/",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "46.8460167",
+    "notes" : [
+
+    ],
+    "name" : "Ibis Chur",
+    "address" : "Richtstrasse 19, 7000 Chur, Switzerland",
+    "longitude" : "9.5125534",
+    "id" : "47181FA1-67DB-4199-8ECE-D369B5147141",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "47.23538941177901",
+    "notes" : [
+
+    ],
+    "name" : "Ibis hotel",
+    "address" : "1 Avenue Louise Michel, 25000 Besançon, France",
+    "longitude" : "6.014950489356848",
+    "id" : "9AE192D7-F8D0-4260-B6D2-F82E7CDCF8DF",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.41381311263478",
+    "notes" : [
+
+    ],
+    "name" : "Jackson’s cafe ",
+    "address" : "California country park RG40 4HU",
+    "longitude" : "-1.5171768637538972",
+    "id" : "9E834BD2-093A-449C-B6B1-54AE115451E9",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.52879246035734",
+    "notes" : [
+
+    ],
+    "name" : "Jenners Cafe",
+    "address" : "Riverside Gardens, Maidenhead, SL6, England",
+    "longitude" : "-0.7015809552038211",
+    "id" : "415C37B9-F0F5-406C-8D5A-71C03E873116",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.5612",
+    "notes" : [
+
+    ],
+    "name" : "Josies (Jolly Roger)",
+    "address" : "Newton Abbot, TQ12 6RE",
+    "longitude" : "-3.6512",
+    "id" : "A19E211A-CF1B-43BE-9009-457E275CE380",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.7831",
+    "notes" : [
+
+    ],
+    "name" : "Kingsley Cafe",
+    "address" : "Eynsham, OX29 4EN",
+    "longitude" : "-1.3732",
+    "id" : "6F84D1A0-C488-4F9E-B2E6-57D84190922A",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.9851",
+    "notes" : [
+
+    ],
+    "name" : "Krazy Horse",
+    "address" : "Chipping Norton, OX7 4BN",
+    "longitude" : "-1.4292",
+    "id" : "1BF6650A-9469-4341-8258-EAE63C3A5678",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "47.25226930799802",
+    "notes" : [
+
+    ],
+    "name" : "La Couronne",
+    "address" : "14 Rue Montalembert, 25120 Maîche, France",
+    "longitude" : "6.802281411814577",
+    "id" : "B5780AA6-BF8A-4F94-87DC-686CABF4DE95",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "47.86110724700414",
+    "notes" : [
+
+    ],
+    "name" : "Langres coffee",
+    "address" : "23 Rue Diderot, 52200 Langres, France",
+    "longitude" : "5.333897188352792",
+    "id" : "C7152827-80AD-4F37-9B08-B73C5A342106",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.5121",
+    "notes" : [
+
+    ],
+    "name" : "Lobster Pot",
+    "address" : "Portland Bill, DT5 2JT",
+    "longitude" : "-2.4542",
+    "id" : "FDADB628-AE25-40E2-88BE-7C59FA776B6C",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.2812",
+    "notes" : [
+
+    ],
+    "name" : "Long Itch Diner",
+    "address" : "Southam, CV47 9QZ",
+    "longitude" : "-1.3912",
+    "id" : "CA850AD2-F791-4BAE-93FD-72D29F89344A",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.1392",
+    "notes" : [
+
+    ],
+    "name" : "Longstock Farm Shop",
+    "address" : "Leckford Estate, SO20 6EH",
+    "longitude" : "-1.4781",
+    "id" : "D1E21F0A-660C-43D3-8F08-E63E5D0939A5",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.0304",
+    "notes" : [
+
+    ],
+    "name" : "Loomies Moto Cafe",
+    "address" : "West Meon, GU32 1JX",
+    "longitude" : "-1.0757",
+    "id" : "A6BA2D83-5065-490E-B34C-DCE1F3C9FBB2",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.8521",
+    "notes" : [
+
+    ],
+    "name" : "Micks Monster Burgers",
+    "address" : "Portsdown Hill, PO6 3LS",
+    "longitude" : "-1.0612",
+    "id" : "9EE23F81-0C38-4925-BD30-F597F6A6C00E",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.0512",
+    "notes" : [
+
+    ],
+    "name" : "Milk Churn Cafe",
+    "address" : "Horsham, RH12 3AL",
+    "longitude" : "-0.4212",
+    "id" : "03B0813E-634D-481E-ABF3-71F232E8DEA6",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.41381311263478",
+    "notes" : [
+
+    ],
+    "name" : "Motorsportopia",
+    "address" : "Marsh Gibbon, Bicester",
+    "longitude" : "-1.5171768637538967",
+    "id" : "19243643-2C6F-4A4E-96E0-467C40DC2301",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "46.12675405388009",
+    "notes" : [
+
+    ],
+    "name" : "Motorway coffee",
+    "address" : "Les Îles Cédées 1, 1920 Martigny, Switzerland",
+    "longitude" : "7.060746717164208",
+    "id" : "B4E49D6D-6915-476D-9315-EDC6EEDD6DCD",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.9881",
+    "notes" : [
+
+    ],
+    "name" : "Mr Watsons Bus Cafe",
+    "address" : "Moreton in Marsh, GL56 9AJ",
+    "longitude" : "-1.7021",
+    "id" : "3919B2BD-F97A-420E-85BF-B7C9969C8619",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.6045",
+    "notes" : [
+
+    ],
+    "name" : "Munchies",
+    "address" : "Grove, OX12 7JZ",
+    "longitude" : "-1.4052",
+    "id" : "0A0A9374-C926-443D-B585-ADBCD3861F26",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.4612",
+    "notes" : [
+
+    ],
+    "name" : "New Baffle Haus",
+    "address" : "Cowbridge, CF71 7FF",
+    "longitude" : "-3.4512",
+    "id" : "D2138F6A-898B-450F-9510-022051421AE0",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.8616",
+    "notes" : [
+
+    ],
+    "name" : "Oily Rag",
+    "address" : "Gloucester, GL1 1AJ",
+    "longitude" : "-2.2214",
+    "id" : "3D381B40-D7DA-4D31-A48A-CE8A89519D07",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.0371",
+    "notes" : [
+
+    ],
+    "name" : "Old Brewery",
+    "address" : "Gillingham, SP8 4NW",
+    "longitude" : "-2.2712",
+    "id" : "EB899C4F-0A6C-4D8B-933B-C55CE2350687",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.8298",
+    "notes" : [
+
+    ],
+    "name" : "Old Prison Cafe",
+    "address" : "Northleach, GL54 3DE",
+    "longitude" : "-1.8341",
+    "id" : "67C5A8D5-57C5-4400-A577-EB66CBA21B01",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.7112",
+    "notes" : [
+
+    ],
+    "name" : "Old Red Lion",
+    "address" : "Tetsworth, OX9 7AS",
+    "longitude" : "-1.0112",
+    "id" : "2192742D-725F-4655-9497-4C5547DA1012",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.1001",
+    "notes" : [
+
+    ],
+    "name" : "Old Sarum Airfield",
+    "address" : "Salisbury, SP4 6DZ",
+    "longitude" : "-1.7845",
+    "id" : "8AE95126-0F24-4791-A750-EC5A58D4ADC0",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.7963",
+    "notes" : [
+
+    ],
+    "name" : "Old Station Tea Rooms",
+    "address" : "Holmsley, BH24 4HY",
+    "longitude" : "-1.6833",
+    "id" : "32F0D620-2FE8-449F-A15D-A634BDC050B8",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "53.1512",
+    "notes" : [
+
+    ],
+    "name" : "Old Stores Biker Cafe",
+    "address" : "Mold, CH7 4RZ",
+    "longitude" : "-3.2214",
+    "id" : "76235CC6-8EEF-4759-ACA7-2008FC8439A2",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.2182",
+    "notes" : [
+
+    ],
+    "name" : "Ollie's",
+    "address" : "Highbridge, TA9 4HJ",
+    "longitude" : "-2.9612",
+    "id" : "58B24A98-68DF-4C00-866B-38E5ACC1C0B7",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.9741",
+    "notes" : [
+
+    ],
+    "name" : "Orchard Cafe",
+    "address" : "Cheltenham, GL54 5PB",
+    "longitude" : "-1.9281",
+    "id" : "D4CC552F-1A27-4B0B-95CD-729E7F4DAE1A",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.9945",
+    "notes" : [
+
+    ],
+    "name" : "Owls Nest",
+    "address" : "Llandovery, SA20 0DJ",
+    "longitude" : "-3.7923",
+    "id" : "9794643D-EC3B-4371-8167-BA89FC8AAFE0",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.3283",
+    "notes" : [
+
+    ],
+    "name" : "Pathfinder Cafe",
+    "address" : "Blackbushe, GU17 9LQ",
+    "longitude" : "-0.8504",
+    "id" : "AAB3041E-DA2E-4217-8DE8-80A2ECF4113D",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.80194694052262",
+    "notes" : [
+
+    ],
+    "name" : "Penguin Cafe",
+    "address" : "6 Marine Parade West, Lee-On-The-Solent, PO13 9LL, England",
+    "longitude" : "-1.2034102968461302",
+    "id" : "6DE4D4BF-99BB-492C-BCF2-444B7A6594AD",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.3863",
+    "notes" : [
+
+    ],
+    "name" : "Pinewood Bar & Cafe",
+    "address" : "Bracknell, RG40 3AQ",
+    "longitude" : "-0.7941",
+    "id" : "D881F86E-924F-4B81-BB62-E6D94AC7251E",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.1954201532018",
+    "notes" : [
+
+    ],
+    "name" : "Popham Airfield Cafe",
+    "address" : "Popham Airfield, Winchester, SO21, England",
+    "longitude" : "-1.2348728860959217",
+    "id" : "258BADB5-A209-4B09-A3F2-519C8C202B24",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.7051",
+    "notes" : [
+
+    ],
+    "name" : "Pot Kiln Farm",
+    "address" : "Measham, DE12 7HA",
+    "longitude" : "-1.5063",
+    "id" : "A0729B91-4B12-4749-A2E7-BA62896ADE7D",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.2082",
+    "notes" : [
+
+    ],
+    "name" : "Quickshifter Coffee",
+    "address" : "Wells, BA5 1UA",
+    "longitude" : "-2.6482",
+    "id" : "DE924B52-E703-4556-9CA8-6906228CEDB5",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.8312",
+    "notes" : [
+
+    ],
+    "name" : "Roadhouse",
+    "address" : "Llanwenarth, NP7 7EW",
+    "longitude" : "-3.0512",
+    "id" : "AE0E5F4B-0017-4FD0-9202-8D7E45D001DC",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.41381311263478",
+    "notes" : [
+
+    ],
+    "name" : "Route 66",
+    "address" : "Portsdown Hill",
+    "longitude" : "-1.5171768637538965",
+    "id" : "8C7EEACC-6CDD-4E28-A7D9-268D90A7C4C4",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.3695",
+    "notes" : [
+
+    ],
+    "name" : "Rowdey Cow",
+    "address" : "Devizes, SN10 2RE",
+    "longitude" : "-2.0152",
+    "id" : "AD6A313B-35FF-4399-B467-8E852209DD07",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.2505",
+    "notes" : [
+
+    ],
+    "name" : "Ryka's Cafe",
+    "address" : "Box Hill, RH5 6BY",
+    "longitude" : "-0.3235",
+    "id" : "DACDD2DA-8372-4987-A90B-C6143F9605E5",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.7657",
+    "notes" : [
+
+    ],
+    "name" : "Sammy Miller Museum",
+    "address" : "New Milton, BH25 5SZ",
+    "longitude" : "-1.6733",
+    "id" : "BCABFAA1-6AB6-49D3-8C9B-87D2C46E63C7",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.7961",
+    "notes" : [
+
+    ],
+    "name" : "Silver Fox Cafe",
+    "address" : "Newnham, GL14 1HH",
+    "longitude" : "-2.4503",
+    "id" : "464C47FD-E529-42DC-832A-11ADA9E5EF48",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.0121",
+    "notes" : [
+
+    ],
+    "name" : "Sky Park Farm",
+    "address" : "Petersfield, GU31 5PT",
+    "longitude" : "-0.9021",
+    "id" : "665401FA-324C-4448-B35B-BC713BB632D9",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.7142",
+    "notes" : [
+
+    ],
+    "name" : "Snug Cafe",
+    "address" : "Dorchester, DT1 1EB",
+    "longitude" : "-2.4351",
+    "id" : "4142F2F8-62D0-415B-9751-C77CFE72801A",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.444488472591196",
+    "notes" : [
+
+    ],
+    "name" : "SPA",
+    "address" : "Circuit de Spa-Francorchamps, 4970 Stavelot, Belgium",
+    "longitude" : "5.965437410688215",
+    "id" : "10E6BDAC-004B-41DA-B6A4-B02FFBE8A028",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.3282",
+    "notes" : [
+
+    ],
+    "name" : "Spitfire Cafe",
+    "address" : "Biggin Hill, TN16 3BN",
+    "longitude" : "0.0312",
+    "id" : "26111B1F-C674-4B24-8670-01D829EF8B46",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.1523",
+    "notes" : [
+
+    ],
+    "name" : "Station Cafe",
+    "address" : "Alton, GU34 2PZ",
+    "longitude" : "-0.9671",
+    "id" : "20A8A14A-F1E0-4027-BCE0-5B0DC81E2C54",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.0873",
+    "notes" : [
+
+    ],
+    "name" : "Super Sausage",
+    "address" : "Potterspury, NN12 7QD",
+    "longitude" : "-0.9075",
+    "id" : "89EDB890-D283-4B64-802C-9BF4FC378A43",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.3045",
+    "notes" : [
+
+    ],
+    "name" : "Sywell Aerodrome",
+    "address" : "Sywell, NN6 0BN",
+    "longitude" : "-0.7931",
+    "id" : "5F315C94-B5CD-4C4A-AB37-8F09013CE705",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.0812",
+    "notes" : [
+
+    ],
+    "name" : "The Bike Sanctuary",
+    "address" : "Near MK, MK19 6DG",
+    "longitude" : "-0.8412",
+    "id" : "118E7A9B-B28A-4F0D-90C0-CDA1ECB60F64",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.3142",
+    "notes" : [
+
+    ],
+    "name" : "The Coffee Shop",
+    "address" : "Sherfield on Loddon, RG27 0EX",
+    "longitude" : "-1.0251",
+    "id" : "21D8C9E5-BEB1-438F-9187-113A0CB8F0B4",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.8859",
+    "notes" : [
+
+    ],
+    "name" : "The Old Shed",
+    "address" : "Charlbury, OX7 3JH",
+    "longitude" : "-1.4713",
+    "id" : "C7B4BFE2-A34B-4E51-8616-966ED33AC458",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.2312",
+    "notes" : [
+
+    ],
+    "name" : "The Piston Club",
+    "address" : "Stratford, CV37 0RE",
+    "longitude" : "-1.6341",
+    "id" : "93DFFB69-C4C7-4458-8B33-323004DA1F37",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "50.794105352839914",
+    "notes" : [
+
+    ],
+    "name" : "The Rolling Scones",
+    "address" : "Winchfield House, South Street, Gosport, PO12 1NP, England",
+    "longitude" : "-1.121316438053211",
+    "id" : "873DA45F-9866-4DF4-BCE3-E7AE26C09FBF",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.2851",
+    "notes" : [
+
+    ],
+    "name" : "The Shack Cafe",
+    "address" : "Hook, RG27 9DB",
+    "longitude" : "-0.9621",
+    "id" : "2C2CCE34-31A6-4850-A09D-478A6A8691D1",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.2236",
+    "notes" : [
+
+    ],
+    "name" : "Too Fast Too Filling",
+    "address" : "Andover, SP11 6RU",
+    "longitude" : "-1.4411",
+    "id" : "9B1B9B15-BA62-4C47-8FAD-0933896E21A8",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.0631",
+    "notes" : [
+
+    ],
+    "name" : "Torque Moto Cafe",
+    "address" : "Horsham, RH12 3AU",
+    "longitude" : "-0.3298",
+    "id" : "ADF2B5A8-B8A9-41C1-AD90-891E9FD8FD65",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.1923",
+    "notes" : [
+
+    ],
+    "name" : "Touchdown Cafe",
+    "address" : "Wellesbourne, CV35 9EU",
+    "longitude" : "-1.6133",
+    "id" : "D5F08088-3A8B-419E-9D04-80E2D017F27E",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "52.4123",
+    "notes" : [
+
+    ],
+    "name" : "Two Hoots",
+    "address" : "Aberystwyth, SY23 3AX",
+    "longitude" : "-4.0812",
+    "id" : "B1E82256-3E52-403D-8599-4A12EC7E029B",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "46.84824115908794",
+    "notes" : [
+
+    ],
+    "name" : "Vino y mas",
+    "address" : "Goldgasse 23, 7000 Chur, Switzerland",
+    "longitude" : "9.53064853672047",
+    "id" : "4DE32230-0EA7-4C5A-9031-B8BDF0461C5F",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.7938",
+    "notes" : [
+
+    ],
+    "name" : "Vintage Metals",
+    "address" : "Coleford, GL16 8JR",
+    "longitude" : "-2.6201",
+    "id" : "957A9596-D99B-45F2-AFF2-104AC360645F",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.65471111813127",
+    "notes" : [
+
+    ],
+    "name" : "Wandering Kitchen",
+    "address" : "",
+    "longitude" : "-1.1638003390246288",
+    "id" : "2C9CFAAD-E8D4-4EC9-B482-E45EF63614DB",
+    "website" : "",
+    "w3w" : ""
+  },
+  {
+    "latitude" : "51.619701892419734",
+    "notes" : [
+
+    ],
+    "name" : "Waterfront Café",
+    "address" : "Benson Waterfront, Benson, Wallingford, OX10 6SJ, England",
+    "longitude" : "-1.1151592416396652",
+    "id" : "1DDC4470-3B39-4D49-A77C-3992DC3E821A",
+    "website" : "",
+    "w3w" : ""
+  }
+]
