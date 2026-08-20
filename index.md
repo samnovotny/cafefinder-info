@@ -13,7 +13,7 @@ If you have any questions, encounter a bug, or need assistance using the app, pl
 ---
 
 ## Privacy Policy
-**Last Updated: May 2026**
+**Last Updated: August 2026**
 
 Your privacy is paramount. This Privacy Policy explains how our mobile Cafefinder application (the "App") handles location data and information related to your places of interest (POIs).
 
