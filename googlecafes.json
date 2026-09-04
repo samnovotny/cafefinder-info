@@ -1,0 +1,247 @@
+{
+  "cafes" : [
+    {
+      "longitude" : "-0.2778",
+      "notes" : [
+        "World-famous legendary hub for riders since 1938."
+      ],
+      "address" : "Ace Corner, N Circular Rd, London NW10 7UD, London",
+      "id" : "214A84D1-C33A-4E81-9068-B40EC8E6FA0B",
+      "name" : "Ace Cafe London",
+      "latitude" : "51.5412",
+      "w3w" : "",
+      "website" : ""
+    },
+    {
+      "latitude" : "51.5271238055574",
+      "id" : "FF676371-6CC8-496F-B7B8-480364AE87C5",
+      "longitude" : "-0.07885804139322383",
+      "address" : "384 Old Street, London, EC1V 9LT, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Bike Shed Moto Co.",
+      "notes" : [
+        "Stylish lifestyle venue with restaurant"
+      ]
+    },
+    {
+      "latitude" : "51.030480812099036",
+      "id" : "959AAB58-F642-499D-A9D5-F57A6E9259BD",
+      "longitude" : "-1.075832828204167",
+      "address" : "Loomies, Alton Road, West Meon, Petersfield, GU32 1JX, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Loomies Moto Cafe",
+      "notes" : [
+        "Iconic biker-run cafe on popular scenic riding routes."
+      ]
+    },
+    {
+      "latitude" : "53.782885292481666",
+      "id" : "F537B20A-0F03-471E-85A7-C6CD684C5ED3",
+      "longitude" : "-1.2889373374866901",
+      "address" : "Newthorpe Lane, Newthorpe, South Milford, Leeds, LS25, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Squires Cafe Bar",
+      "notes" : [
+        "The biggest motorcycle meeting hub in the North of England."
+      ]
+    },
+    {
+      "latitude" : "51.25546394877016",
+      "id" : "DE6C5844-2DFE-4DA5-B001-25908A86AB52",
+      "longitude" : "-0.32228432973523274",
+      "address" : "B2209, Mickleham, Dorking, RH5, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Rykas Boxhill",
+      "notes" : [
+        "Long-running historic hotspot tucked away in Box Hill."
+      ]
+    },
+    {
+      "latitude" : "52.087357984970176",
+      "id" : "131B29EF-502B-4517-8CF2-2053179BC1EB",
+      "longitude" : "-0.9075542589456406",
+      "address" : "95 Nelson House, Watling Street, Potterspury, Towcester, NN12 7QD, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Super Sausage Cafe",
+      "notes" : [
+        "Famous for award-winning breakfasts and welcoming vibe."
+      ]
+    },
+    {
+      "latitude" : "53.13374791697835",
+      "id" : "8E48268A-6DE7-4FA1-AB17-F2FD8112B03E",
+      "longitude" : "-3.0812735715169066",
+      "address" : "The Lodge, Corwen Road, Pontblyddyn, Mold, CH7 4HR, Wales",
+      "website" : "",
+      "w3w" : "",
+      "name" : "The Old Stores Motorbike Cafe",
+      "notes" : [
+        "Highly rated"
+      ]
+    },
+    {
+      "latitude" : "53.023989813949775",
+      "id" : "D8616EBD-16CC-4312-A243-C377841D817C",
+      "longitude" : "-3.2048407554822",
+      "address" : "The Retreat, Horseshoe Pass, Llangollen, LL20 8DR, Wales",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Ponderosa Cafe",
+      "notes" : [
+        "Perched at the top of a famous mountain pass route."
+      ]
+    },
+    {
+      "latitude" : "54.02055839692487",
+      "id" : "1C43E752-086B-486F-8FE9-D7AFE752CE3B",
+      "longitude" : "-0.6610180743024038",
+      "address" : "Seaways, Fridaythorpe, Driffield, YO25 9RX, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Seaways Cafe",
+      "notes" : [
+        "Excellent pit stop for bikers exploring the Yorkshire Wolds."
+      ]
+    },
+    {
+      "latitude" : "55.99013551238535",
+      "id" : "A340A8CC-068C-4915-ACF3-0F911F4E5942",
+      "longitude" : "-3.3856967914591225",
+      "address" : "6D New Halls Road, South Queensferry, EH30 9TA, Scotland",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Biker's Cove",
+      "notes" : [
+        "Famous seaside biker hub right next to the Forth Bridges."
+      ]
+    },
+    {
+      "latitude" : "56.438186980137516",
+      "id" : "EE40DEF4-6A83-47C1-AE93-03AE1DED188C",
+      "longitude" : "-4.712578818876934",
+      "address" : "A82, Tyndrum, Crianlarich, FK20, Scotland",
+      "website" : "",
+      "w3w" : "",
+      "name" : "The Green Welly Stop",
+      "notes" : [
+        "Crucial landmark stop for riders touring the Western Highlands."
+      ]
+    },
+    {
+      "latitude" : "54.60779197264523",
+      "id" : "8292207B-8323-4417-929A-A846F2002BFB",
+      "longitude" : "-3.140256779910178",
+      "address" : "1 Markholme Cottages, Crosthwaite Road, Keswick, CA12 5PP, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "The Filling Station",
+      "notes" : [
+        "A popular meeting place for bikes touring the Lake District."
+      ]
+    },
+    {
+      "latitude" : "51.987424837047556",
+      "id" : "C46BBAE9-AF38-4C55-83D8-7B7985DADC7F",
+      "longitude" : "-3.806818545205397",
+      "address" : "Maes Y Coed, Lower Road, Llandovery, SA20 0DJ, Wales",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Owls Nest Tea Room Diner",
+      "notes" : [
+        "Highly regarded meeting point in the heart of South Wales."
+      ]
+    },
+    {
+      "latitude" : "51.658333909865796",
+      "id" : "CA5EAD58-E2D2-41C0-8301-C774734C79CD",
+      "longitude" : "-1.1758791426792188",
+      "address" : "Deacons Garage, Oxford Road, Dorchester On Thames, Wallingford, OX10 7LY, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "H Cafe",
+      "notes" : [
+        "Large"
+      ]
+    },
+    {
+      "latitude" : "50.43612841244614",
+      "id" : "8B445F9E-6F9C-47EC-85FC-D3FBA47B0D06",
+      "longitude" : "-4.440869567324221",
+      "address" : "A38, PL14, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Chequered Flag",
+      "notes" : [
+        "Brilliant auto-themed diner situated on the A38 corridor."
+      ]
+    },
+    {
+      "latitude" : "51.09970207003413",
+      "id" : "E0AC9ED0-1F93-4912-B1DB-3F7AF227CB65",
+      "longitude" : "-0.3194859958775272",
+      "address" : "Graylands Estate, Langhurstwood Road, Horsham, RH12 4QD, England",
+      "website" : "",
+      "w3w" : "",
+      "name" : "Torque Moto Cafe",
+      "notes" : [
+        "Modern motorsport-themed cafe popular for specialty burgers."
+      ]
+    },
+    {
+      "notes" : [
+        "Dedicated biker cafe welcoming massive weekend turnouts."
+      ],
+      "website" : "",
+      "id" : "0435AB14-41FC-4473-93DC-7E02BCF56B81",
+      "address" : "West Eaton Nurseries, Stoke Prior Lane, Leominster, HR6 0NA, England",
+      "w3w" : "",
+      "name" : "Dom's Bike Stop",
+      "latitude" : "52.2210414376687",
+      "longitude" : "-2.718517183233789"
+    },
+    {
+      "notes" : [
+        "Popular destination located right in the middle of Hawes."
+      ],
+      "website" : "",
+      "id" : "E8EAD401-3E54-4D8A-B79D-EE5D0E27778C",
+      "address" : "Penny Garth, Market Place, Hawes, DL8 3RD, England",
+      "w3w" : "",
+      "name" : "Penny Garth Cafe",
+      "latitude" : "54.304296082140596",
+      "longitude" : "-2.200264280642061"
+    },
+    {
+      "notes" : [
+        "Retro American-style diner and a classic South East meet."
+      ],
+      "website" : "",
+      "id" : "DFC7A46C-D86F-42D0-8636-8CEA1B679827",
+      "address" : "John's Cross Road, Mountfield, Robertsbridge, TN32, England",
+      "w3w" : "",
+      "name" : "Route 1066 Cafe",
+      "latitude" : "50.968254084952285",
+      "longitude" : "0.47833673434631696"
+    },
+    {
+      "notes" : [
+        "Cozy destination hidden away in the stunning Yorkshire Dales."
+      ],
+      "website" : "",
+      "id" : "85958798-D23B-411A-863A-4BE94E95C6D8",
+      "address" : "Manor Farm, Leyburn Road, Leyburn, DL8 5QH, England",
+      "w3w" : "",
+      "name" : "The Manor Farm Cafe",
+      "latitude" : "54.32752621799485",
+      "longitude" : "-1.8271705726054823"
+    }
+  ],
+  "settings" : {
+    "symbolName" : "cup.and.heat.waves.fill"
+  }
+}
