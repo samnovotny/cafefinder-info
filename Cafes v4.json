@@ -1,0 +1,1267 @@
+{
+  "cafes" : [
+    {
+      "latitude" : "51.99121444285116",
+      "name" : "Abbey Mill",
+      "id" : "68FA543B-1CB7-4D9D-86CA-6405A60D4FE6",
+      "w3w" : "",
+      "longitude" : "-2.162368029772097",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "13 Mill Street, Tewkesbury, GL20 5SB, England"
+    },
+    {
+      "latitude" : "52.12755011355595",
+      "name" : "Amici Coffee",
+      "id" : "C521C2EC-4DA4-434C-A7D2-3D0C969143CF",
+      "w3w" : "",
+      "longitude" : "-0.30037117274141945",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Sandy Service Station, Girtford Bridge, Sandy, SG19 1NA, England"
+    },
+    {
+      "latitude" : "51.150305120721775",
+      "name" : "Apache Cafe",
+      "id" : "2957F6CF-298E-49A1-8560-8A6B6D613C4D",
+      "w3w" : "",
+      "longitude" : "-1.5720357315428288",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Salisbury Road, Middle Wallop, Stockbridge, SO20, England"
+    },
+    {
+      "latitude" : "51.669717606534086",
+      "name" : "AV8",
+      "id" : "35299A66-339E-40F3-B502-738EA7C77FDA",
+      "w3w" : "",
+      "longitude" : "-2.0580960436748454",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Cotswold Airport, Cirencester, GL7, England"
+    },
+    {
+      "latitude" : "51.74734633437797",
+      "name" : "Baffle Haus",
+      "id" : "5CB6E703-D0E0-4380-A804-32893D27B3CA",
+      "w3w" : "",
+      "longitude" : "-2.9860003556371346",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Cedars, Abergavenny Road, Penperlleni, Pontypool, NP4 0AD, Wales"
+    },
+    {
+      "latitude" : "51.37395994393872",
+      "name" : "Base cafe (Honesty at the Base)",
+      "id" : "2636745B-B12A-43A0-B169-1775CDB31155",
+      "w3w" : "",
+      "longitude" : "-1.2837039104050594",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "1 Greenham Business Park, Greenham, Thatcham, RG19 6AB, England"
+    },
+    {
+      "latitude" : "51.88109735921967",
+      "name" : "Bicester Bean Cafe",
+      "id" : "150764F4-6D9C-4CEB-8B4B-4DAF9191CFC1",
+      "w3w" : "",
+      "longitude" : "-1.1173592165954656",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Windmill Nurseries, London Road, Bicester, OX26 6RA, England"
+    },
+    {
+      "latitude" : "51.70498233577629",
+      "name" : "Biker Bean Coffeehouse ",
+      "id" : "23429801-25CC-49C9-9DBA-EBA5FB8E7531",
+      "w3w" : "",
+      "longitude" : "-0.9135637626838448",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "4A Thame Road, Chinnor, OX39 4QS, England"
+    },
+    {
+      "latitude" : "51.03797966817205",
+      "name" : "Billy's on the Road",
+      "id" : "BB3D2E75-4EA4-456D-844F-39B6E9A532FE",
+      "w3w" : "",
+      "longitude" : "-0.44116493602533063",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Stane Street, Billingshurst, RH14, England"
+    },
+    {
+      "latitude" : "51.71495713774023",
+      "name" : "Blake's Kitchen",
+      "id" : "ABEB52A7-8B15-49EA-863B-5F92A11C5BF3",
+      "w3w" : "",
+      "longitude" : "-1.5894757830903619",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Royston House, Main Street, Clanfield, Bampton, OX18 2SH, England"
+    },
+    {
+      "latitude" : "52.01291496304971",
+      "name" : "Blockley Cafe",
+      "id" : "39C79E38-E8BE-4EC5-9827-A9B44DE398E6",
+      "w3w" : "",
+      "longitude" : "-1.76204599684824",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "6 Mill Close, Blockley, Moreton-In-Marsh, GL56 9DN, England"
+    },
+    {
+      "latitude" : "50.49268703474507",
+      "name" : "Buckfast Abbey",
+      "id" : "2B8531EE-49A8-4AC7-B300-0DE65292C1A3",
+      "w3w" : "",
+      "longitude" : "-3.7760753090607033",
+      "notes" : [
+        "Alan"
+      ],
+      "website" : "",
+      "address" : "Methodist Church, Buckfast Road, Buckfastleigh, TQ11 0EA, England"
+    },
+    {
+      "latitude" : "50.965290863348145",
+      "name" : "Butchers Hook",
+      "id" : "9FDA6075-3936-4FF7-8861-40EFDFEB5459",
+      "w3w" : "",
+      "longitude" : "0.25589252955535624",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "2 Holmrook, Hailsham Road, Heathfield, TN21 8AE, England"
+    },
+    {
+      "latitude" : "51.44614728342639",
+      "name" : "Calne cafe",
+      "id" : "455BCF5F-5A5E-4546-B13C-8122ACE1CB8C",
+      "w3w" : "",
+      "longitude" : "-2.013270103953434",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "7 Harrier Close, Calne, SN11 9UT, England"
+    },
+    {
+      "latitude" : "51.6582",
+      "name" : "Carle's Cafe",
+      "id" : "BAE81917-4311-44E9-9E0C-5B2CC95A4E6D",
+      "w3w" : "",
+      "longitude" : "-1.9123",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Cerney Wick, GL7 5LW"
+    },
+    {
+      "latitude" : "50.81408545781236",
+      "name" : "Cease Fire Cafe",
+      "id" : "1BD2D46A-F0ED-49FF-98B1-96A8B3E07048",
+      "w3w" : "",
+      "longitude" : "-0.59788569530785",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Yapton Road, Yapton, Arundel, BN18, England"
+    },
+    {
+      "latitude" : "51.338467318627515",
+      "name" : "Chopper's Cafe",
+      "id" : "4021B68D-4992-4CC2-9600-32BB61D281D8",
+      "w3w" : "",
+      "longitude" : "-1.6741583930257242",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "A338, Burbage, Marlborough, SN8, England"
+    },
+    {
+      "latitude" : "51.783200057741865",
+      "name" : "Classic Motor Hub",
+      "id" : "5B07DBE7-824E-44FF-864A-9CD902934CF7",
+      "w3w" : "",
+      "longitude" : "-1.840357153247318",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Old Walls, Bibury, Cirencester, GL7 5FF, England"
+    },
+    {
+      "latitude" : "50.71905072317448",
+      "name" : "Coast Surf + Moto",
+      "id" : "B27CF658-96E1-432D-A184-56854ACA5439",
+      "w3w" : "",
+      "longitude" : "-1.9531085805711297",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "91 Salterns Road, Parkstone, Poole, BH14 8BL, England"
+    },
+    {
+      "latitude" : "50.965986628547284",
+      "name" : "Compton Abbas Airfield",
+      "id" : "ED690BB5-B5A0-4902-8C4F-F40C72D04146",
+      "w3w" : "",
+      "longitude" : "-2.157092943732222",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Compton Abbas Airfield, Ashmore, Salisbury, SP5 5AX, England"
+    },
+    {
+      "latitude" : "51.8212",
+      "name" : "Copper Kettle",
+      "id" : "56378952-C8EF-48FF-A89F-04778CC3800F",
+      "w3w" : "",
+      "longitude" : "-3.0182",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Abergavenny, NP7 5PU"
+    },
+    {
+      "latitude" : "51.96512306780462",
+      "name" : "Cotswold Barn Cafe",
+      "id" : "3A0920EE-3CA1-4980-A755-D540C9EA32CD",
+      "w3w" : "",
+      "longitude" : "-1.7546892899830633",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Cudds Farm, Ganborough, Longborough, Moreton-In-Marsh, GL56 0QZ, England"
+    },
+    {
+      "latitude" : "51.972352155615084",
+      "name" : "Cotswold Cafe",
+      "id" : "1796D4D5-A0DC-4AC6-A125-1E795527C991",
+      "w3w" : "",
+      "longitude" : "-1.633424478926146",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Well Cottage, Little Compton, Moreton-In-Marsh, GL56 0RR, England"
+    },
+    {
+      "latitude" : "51.9888",
+      "name" : "Cotswold Halt Cafe",
+      "id" : "0C31F92F-A2B1-4EA8-90C1-DF8F78448F3B",
+      "w3w" : "",
+      "longitude" : "-1.929",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Toddington, GL54 5DT"
+    },
+    {
+      "latitude" : "51.72198115387853",
+      "name" : "CTL Motor Company",
+      "id" : "6B7B9673-88B8-4429-AADA-092951413BD5",
+      "w3w" : "",
+      "longitude" : "-1.9429887605534617",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Cherrytree Lane Garage, Cherrytree Lane, Cirencester, GL7 5DT, England"
+    },
+    {
+      "latitude" : "50.845830005224805",
+      "name" : "Custom Cafe",
+      "id" : "21ABC85F-C6AD-472D-ABCA-7D062FAC513D",
+      "w3w" : "",
+      "longitude" : "0.3968569480037215",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Old Marsh Road, Bexhill-On-Sea, TN39, England"
+    },
+    {
+      "latitude" : "51.14987380254809",
+      "name" : "Departure Lounge",
+      "id" : "E5B998C4-4D11-4D7A-B6D9-D98241721D03",
+      "w3w" : "",
+      "longitude" : "-1.005393667332855",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Departure Lounge, Basingstoke Road, Beech, Alton, GU34 4BH, England"
+    },
+    {
+      "latitude" : "52.775237889847645",
+      "name" : "Dragon Soul Biker Cafe",
+      "id" : "94C91DA9-FBBA-4E2C-94F1-9EC218B1AC41",
+      "w3w" : "",
+      "longitude" : "-2.3796393899811705",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "17 Forton Road, Newport, TF10 7JR, England"
+    },
+    {
+      "latitude" : "51.98558575000802",
+      "name" : "Emma’s cafe ",
+      "id" : "1C9C337D-AAF9-4A2D-8D6F-C8D4717D30C2",
+      "w3w" : "",
+      "longitude" : "-0.6173041208498712",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Woburn Abbey Garage, George Street, Woburn, Milton Keynes, MK17 9PY, England"
+    },
+    {
+      "latitude" : "52.82721775680272",
+      "name" : "Factory Heads Cafe",
+      "id" : "4372D426-119A-4C53-A7B2-86CD3606030F",
+      "w3w" : "",
+      "longitude" : "-1.3654188246494507",
+      "notes" : [
+        "According to Google it’s permanently closed"
+      ],
+      "website" : "",
+      "address" : "Donington Park, DE74, England"
+    },
+    {
+      "latitude" : "52.74639563632978",
+      "name" : "Fast Track Diner",
+      "id" : "3D168D73-920E-4E61-ABAD-46E25B6545EC",
+      "w3w" : "",
+      "longitude" : "-2.7400865366154683",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Battlefield Enterprise Park, 4 Knights Way, Shrewsbury, SY1 3AB, England"
+    },
+    {
+      "latitude" : "52.03954787940549",
+      "name" : "Flight Deck Cafe",
+      "id" : "61FCB1DD-58A0-4540-9302-F66F6E1A37EA",
+      "w3w" : "",
+      "longitude" : "-1.1050367151759615",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Turweston Aerodrome, Brackley, NN13, England"
+    },
+    {
+      "latitude" : "50.82769029895254",
+      "name" : "Fuel Stop Cafe",
+      "id" : "538F23B9-0D0A-4455-B834-DD387BB0B29D",
+      "w3w" : "",
+      "longitude" : "-0.756675508965756",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "A27, Runcton, Chichester, PO20, England"
+    },
+    {
+      "latitude" : "51.20215004858053",
+      "name" : "Garage Six Coffee",
+      "id" : "118C2483-B046-405F-94D9-908C780848A8",
+      "w3w" : "",
+      "longitude" : "-2.6446026251840444",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Sidings, Cathedral Avenue, Wells, BA5 1LJ, England"
+    },
+    {
+      "latitude" : "52.19635490600855",
+      "name" : "Garden Shed cafe",
+      "id" : "BBE23EEC-CEB7-41A4-8786-1B79571A136C",
+      "w3w" : "",
+      "longitude" : "-1.5908280582077845",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "2 Newbold Road, Wellesbourne, Warwick, CV35 9NZ, England"
+    },
+    {
+      "latitude" : "52.23116076663028",
+      "name" : "Gasoline Juice",
+      "id" : "A21603BD-87EA-444E-8056-B20DA8913E6A",
+      "w3w" : "",
+      "longitude" : "-1.0848810239604896",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Depot Visitor Centre, Bridge Street, Weedon, Northampton, NN7, England"
+    },
+    {
+      "latitude" : "52.15493129325668",
+      "name" : "Gilks' Garage Café",
+      "id" : "B696F9A1-C818-4CF0-8FD8-FA65F307A09A",
+      "w3w" : "",
+      "longitude" : "-1.50184578843045",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Little Paddock, Banbury Road, Kineton, Warwick, CV35 0JZ, England"
+    },
+    {
+      "latitude" : "51.658332279078316",
+      "name" : "H Cafe",
+      "id" : "27DE3110-2768-4552-84E4-D203DA183AE7",
+      "w3w" : "",
+      "longitude" : "-1.175874483666441",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Deacons Garage, Oxford Road, Dorchester On Thames, Wallingford, OX10 7LY, England"
+    },
+    {
+      "latitude" : "51.040926307530434",
+      "name" : "Haynes Motor Museum",
+      "id" : "BBC2E8CB-DE95-4B2C-AEE9-94B6B09895FA",
+      "w3w" : "",
+      "longitude" : "-2.559173449734917",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Haynes Motor Museum, Yeovil, BA22, England"
+    },
+    {
+      "latitude" : "51.37939653382749",
+      "name" : "Jackson’s cafe ",
+      "id" : "9E834BD2-093A-449C-B6B1-54AE115451E9",
+      "w3w" : "",
+      "longitude" : "-0.8745200190567208",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "California Country Park, Park View, California Country Park Homes, Nine Mile Ride, Finchampstead, Wokingham, RG40 4HT, England"
+    },
+    {
+      "latitude" : "51.5288043512526",
+      "name" : "Jenners Cafe",
+      "id" : "415C37B9-F0F5-406C-8D5A-71C03E873116",
+      "w3w" : "",
+      "longitude" : "-0.701578631153483",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Riverside Gardens, Maidenhead, SL6, England"
+    },
+    {
+      "latitude" : "50.59247222835829",
+      "name" : "Josies (Jolly Roger)",
+      "id" : "A19E211A-CF1B-43BE-9009-457E275CE380",
+      "w3w" : "",
+      "longitude" : "-3.6806373254694944",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Mill, Saint John's Lane, Bovey Tracey, Newton Abbot, TQ13 9FF, England"
+    },
+    {
+      "latitude" : "51.78727346322383",
+      "name" : "Kingsley Cafe",
+      "id" : "6F84D1A0-C488-4F9E-B2E6-57D84190922A",
+      "w3w" : "",
+      "longitude" : "-1.3783069604609361",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Woodstock Car Sales, Eynsham, Witney, OX29 4EF, England"
+    },
+    {
+      "latitude" : "51.98506170889338",
+      "name" : "Krazy Horse",
+      "id" : "1BF6650A-9469-4341-8258-EAE63C3A5678",
+      "w3w" : "",
+      "longitude" : "-1.4290865736965073",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Heath Farm, Banbury Road, Swerford, Chipping Norton, OX7 4BN, England"
+    },
+    {
+      "latitude" : "50.514902032895236",
+      "name" : "Lobster Pot",
+      "id" : "FDADB628-AE25-40E2-88BE-7C59FA776B6C",
+      "w3w" : "",
+      "longitude" : "-2.4555938951744984",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Lighthouse, Portland Bill, Portland, DT5 2JT, England"
+    },
+    {
+      "latitude" : "52.27661263341995",
+      "name" : "Long Itch Diner",
+      "id" : "CA850AD2-F791-4BAE-93FD-72D29F89344A",
+      "w3w" : "",
+      "longitude" : "-1.3894846073884015",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Grasmere House, Southam Road, Long Itchington, Southam, CV47 9QZ, England"
+    },
+    {
+      "latitude" : "51.14814921378231",
+      "name" : "Longstock Farm Shop",
+      "id" : "D1E21F0A-660C-43D3-8F08-E63E5D0939A5",
+      "w3w" : "",
+      "longitude" : "-1.4765307589127934",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Longstock Park Farm Shop, Café & Nursery, Leckford Estate, the Waitrose Farm, Stockbridge, SO20, England"
+    },
+    {
+      "latitude" : "51.030421884118624",
+      "name" : "Loomies Moto Cafe",
+      "id" : "A6BA2D83-5065-490E-B34C-DCE1F3C9FBB2",
+      "w3w" : "",
+      "longitude" : "-1.0756995681309824",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Loomies, Alton Road, West Meon, Petersfield, GU32 1JX, England"
+    },
+    {
+      "latitude" : "51.3616768053927",
+      "name" : "Marina Restaurant ",
+      "id" : "4C477B24-32C3-425C-93CB-A2E33A8D796C",
+      "w3w" : "",
+      "longitude" : "-1.9663798141237707",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Devizes Marina, Horton Avenue, Devizes, SN10 2UG, England"
+    },
+    {
+      "latitude" : "50.85352203979813",
+      "name" : "Micks Monster Burgers",
+      "id" : "9EE23F81-0C38-4925-BD30-F597F6A6C00E",
+      "w3w" : "",
+      "longitude" : "-1.0601322902292774",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Portsdown Hill, Portsdown Hill Road, Cosham, Portsmouth, PO6, England"
+    },
+    {
+      "latitude" : "51.09603343866825",
+      "name" : "Milk Churn Cafe",
+      "id" : "03B0813E-634D-481E-ABF3-71F232E8DEA6",
+      "w3w" : "",
+      "longitude" : "-0.4540712677206345",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Rudgwick Brickworks, Lynwick Street, Rudgwick, Horsham, RH12 3UW, England"
+    },
+    {
+      "latitude" : "51.90176937849832",
+      "name" : "Motorsportopia cafe",
+      "id" : "19243643-2C6F-4A4E-96E0-467C40DC2301",
+      "w3w" : "",
+      "longitude" : "-1.0694300691665517",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Launton Road, Marsh Gibbon, Bicester, OX27, England"
+    },
+    {
+      "latitude" : "52.03054394213755",
+      "name" : "Mr Watsons Bus Cafe",
+      "id" : "3919B2BD-F97A-420E-85BF-B7C9969C8619",
+      "w3w" : "",
+      "longitude" : "-1.7544917010065832",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "74 Northwick Business Centre, Northwick Park, Blockley, Moreton-In-Marsh, GL56 9RF, England"
+    },
+    {
+      "latitude" : "51.60974506687137",
+      "name" : "Munchies of Grove",
+      "id" : "0A0A9374-C926-443D-B585-ADBCD3861F26",
+      "w3w" : "",
+      "longitude" : "-1.422585426395167",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "11-12 Millbrook Square, Grove, Wantage, OX12 7JZ, England"
+    },
+    {
+      "latitude" : "51.456258817456515",
+      "name" : "New Baffle Haus",
+      "id" : "D2138F6A-898B-450F-9510-022051421AE0",
+      "w3w" : "",
+      "longitude" : "-3.3596413835783303",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Old Post Garage, Bonvilston, Cardiff, CF5 6TQ, Wales"
+    },
+    {
+      "latitude" : "51.86162915420935",
+      "name" : "Oily Rag",
+      "id" : "3D381B40-D7DA-4D31-A48A-CE8A89519D07",
+      "w3w" : "",
+      "longitude" : "-2.2213220624152568",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Gloucester, GL1, England"
+    },
+    {
+      "latitude" : "51.0385346530803",
+      "name" : "Old Brewery",
+      "id" : "EB899C4F-0A6C-4D8B-933B-C55CE2350687",
+      "w3w" : "",
+      "longitude" : "-2.292294465623407",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Old Brewery, Wyke Road, Gillingham, SP8 4NW, England"
+    },
+    {
+      "latitude" : "51.83292313352792",
+      "name" : "Old Prison Cafe",
+      "id" : "67C5A8D5-57C5-4400-A577-EB66CBA21B01",
+      "w3w" : "",
+      "longitude" : "-1.843411755583628",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Old Prison, Fosseway, Northleach, Cheltenham, GL54 3JH, England"
+    },
+    {
+      "latitude" : "51.71177997919419",
+      "name" : "Old Red Lion",
+      "id" : "2192742D-725F-4655-9497-4C5547DA1012",
+      "w3w" : "",
+      "longitude" : "-1.00870446918622",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "40 High Street, Tetsworth, Thame, OX9 7AS, England"
+    },
+    {
+      "latitude" : "51.10051356039617",
+      "name" : "Old Sarum Airfield",
+      "id" : "8AE95126-0F24-4791-A750-EC5A58D4ADC0",
+      "w3w" : "",
+      "longitude" : "-1.7835944120235103",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Old Sarum Airfield, Hangar, 3 Old Sarum Airfield, Old Sarum, Salisbury, SP4 6DZ, England"
+    },
+    {
+      "latitude" : "50.8052785",
+      "name" : "Old Station Tea Rooms",
+      "id" : "32F0D620-2FE8-449F-A15D-A634BDC050B8",
+      "w3w" : "",
+      "longitude" : "-1.6725696",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Old Station Tea House, Station Road, Burley, Ringwood, BH24 4HY, England"
+    },
+    {
+      "latitude" : "53.16174111822767",
+      "name" : "Old Stores Biker Cafe",
+      "id" : "76235CC6-8EEF-4759-ACA7-2008FC8439A2",
+      "w3w" : "",
+      "longitude" : "-3.0833059389492337",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Old Bank Lane, Mold, CH7, Wales"
+    },
+    {
+      "latitude" : "51.2477293429728",
+      "name" : "Ollie's",
+      "id" : "58B24A98-68DF-4C00-866B-38E5ACC1C0B7",
+      "w3w" : "",
+      "longitude" : "-2.9396227213705672",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Bristol Road, Brent Knoll, Highbridge, TA9, England"
+    },
+    {
+      "latitude" : "51.63212640785268",
+      "name" : "Only foodz and sauces ",
+      "id" : "908F65F9-0C5D-4363-B46C-44A646EEAE22",
+      "w3w" : "",
+      "longitude" : "-2.672031366296496",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Critchcraft Buildings, Bulwark Industrial Estate, Bulwark, Chepstow, NP16 5QZ, Wales"
+    },
+    {
+      "latitude" : "51.90028877628951",
+      "name" : "Orchard Cafe",
+      "id" : "D4CC552F-1A27-4B0B-95CD-729E7F4DAE1A",
+      "w3w" : "",
+      "longitude" : "-2.1575002127154526",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Bridge Farm, Gloucester Road, Staverton, Cheltenham, GL51 0TF, England"
+    },
+    {
+      "latitude" : "51.98745943419444",
+      "name" : "Owls Nest",
+      "id" : "9794643D-EC3B-4371-8167-BA89FC8AAFE0",
+      "w3w" : "",
+      "longitude" : "-3.8066867802738193",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Maes Y Coed, Lower Road, Llandovery, SA20 0DJ, Wales"
+    },
+    {
+      "latitude" : "51.322774622824454",
+      "name" : "Pathfinder Cafe",
+      "id" : "AAB3041E-DA2E-4217-8DE8-80A2ECF4113D",
+      "w3w" : "",
+      "longitude" : "-0.8411251276174869",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Blackbushe Airport, London Road, Blackwater, Camberley, GU17, England"
+    },
+    {
+      "latitude" : "50.801938314286815",
+      "name" : "Penguin Cafe",
+      "id" : "6DE4D4BF-99BB-492C-BCF2-444B7A6594AD",
+      "w3w" : "",
+      "longitude" : "-1.2034163128164568",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "6 Marine Parade West, Lee-On-The-Solent, PO13 9LL, England"
+    },
+    {
+      "latitude" : "51.386530358170255",
+      "name" : "Pinewood Bar & Cafe",
+      "id" : "D881F86E-924F-4B81-BB62-E6D94AC7251E",
+      "w3w" : "",
+      "longitude" : "-0.7957008241025281",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "7 Pinewood Leisure Centre, Old Wokingham Road, Wokingham, RG40 3AQ, England"
+    },
+    {
+      "latitude" : "51.19401555729801",
+      "name" : "Popham Airfield Cafe",
+      "id" : "258BADB5-A209-4B09-A3F2-519C8C202B24",
+      "w3w" : "",
+      "longitude" : "-1.2358869891254252",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Popham Airfield, Coxford Down, Micheldever, Winchester, SO21 3BD, England"
+    },
+    {
+      "latitude" : "52.71063087749374",
+      "name" : "Pot Kiln Farm",
+      "id" : "A0729B91-4B12-4749-A2E7-BA62896ADE7D",
+      "w3w" : "",
+      "longitude" : "-1.5044992127175454",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "14 Cherry Tree Close, Swadlincote, DE12 7GQ, England"
+    },
+    {
+      "latitude" : "51.20194244201488",
+      "name" : "Quickshifter Coffee",
+      "id" : "DE924B52-E703-4556-9CA8-6906228CEDB5",
+      "w3w" : "",
+      "longitude" : "-2.6445557455193307",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Sidings, Cathedral Avenue, Wells, BA5 1LJ, England"
+    },
+    {
+      "latitude" : "52.04961175400021",
+      "name" : "Revs Automobilia",
+      "id" : "F64D6A17-6217-4138-A6A7-C4B870A036EE",
+      "w3w" : "",
+      "longitude" : "-1.665111330060846",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Staddlestones House, Stretton On Fosse, Moreton-In-Marsh, GL56 9RE, England"
+    },
+    {
+      "latitude" : "51.332333",
+      "name" : "Rivo’s Hub",
+      "id" : "D176FFC6-2D0D-416F-BC1E-D610919FF843",
+      "w3w" : "",
+      "longitude" : "-2.8308756",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Hill Road, Sandford, Winscombe, BS25, England"
+    },
+    {
+      "latitude" : "51.830977962031206",
+      "name" : "Roadhouse",
+      "id" : "AE0E5F4B-0017-4FD0-9202-8D7E45D001DC",
+      "w3w" : "",
+      "longitude" : "-3.043911476157263",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Pentre Lodge, Brecon Road, Llanwenarth, Abergavenny, NP7 7EW, Wales"
+    },
+    {
+      "latitude" : "50.85460241511045",
+      "name" : "Route 66 Burger Bar",
+      "id" : "8C7EEACC-6CDD-4E28-A7D9-268D90A7C4C4",
+      "w3w" : "",
+      "longitude" : "-1.0713695726666348",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Mill Lane, Cosham, Portsmouth, PO6, England"
+    },
+    {
+      "latitude" : "51.36301607296513",
+      "name" : "Rowdey Cow",
+      "id" : "AD6A313B-35FF-4399-B467-8E852209DD07",
+      "w3w" : "",
+      "longitude" : "-2.0141752224168226",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Lower Farm, Devizes Road, Rowde, Devizes, SN10 2LX, England"
+    },
+    {
+      "latitude" : "51.25549836991828",
+      "name" : "Ryka's Cafe",
+      "id" : "DACDD2DA-8372-4987-A90B-C6143F9605E5",
+      "w3w" : "",
+      "longitude" : "-0.3223666985202616",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "B2209, Mickleham, Dorking, RH5, England"
+    },
+    {
+      "latitude" : "50.7658004",
+      "name" : "Sammy Miller Museum",
+      "id" : "BCABFAA1-6AB6-49D3-8C9B-87D2C46E63C7",
+      "w3w" : "\/\/\/protects.fidelity.positions",
+      "longitude" : "-1.6733465",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Bashley Manor, Bashley Cross Road, New Milton, BH25 5SZ, England"
+    },
+    {
+      "latitude" : "51.95385978479842",
+      "name" : "Silk mill",
+      "id" : "BDF10B0F-7646-4D43-A229-6C51AFCBFDE3",
+      "w3w" : "",
+      "longitude" : "-1.9625771899268456",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Willow House, Silk Mill Lane, Winchcombe, Cheltenham, GL54 5HZ, England"
+    },
+    {
+      "latitude" : "51.81169737253766",
+      "name" : "Silver Fox Cafe",
+      "id" : "464C47FD-E529-42DC-832A-11ADA9E5EF48",
+      "w3w" : "",
+      "longitude" : "-2.4421160802389035",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "A48, Broadoak, Newnham, GL14, England"
+    },
+    {
+      "latitude" : "50.99820567851947",
+      "name" : "Sky Park Farm",
+      "id" : "665401FA-324C-4448-B35B-BC713BB632D9",
+      "w3w" : "\/\/\/price.argue.signature",
+      "longitude" : "-0.8880955282617575",
+      "notes" : [
+        "Large car park"
+      ],
+      "website" : "skyparkfarm.com",
+      "address" : "Rival Lodge, West Harting, Petersfield, GU31 5PF, England"
+    },
+    {
+      "latitude" : "51.64767377152723",
+      "name" : "Snug Cafe",
+      "id" : "4142F2F8-62D0-415B-9751-C77CFE72801A",
+      "w3w" : "",
+      "longitude" : "-1.1699560852098672",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "93 High Street, Dorchester On Thames, Wallingford, OX10 7HP, England"
+    },
+    {
+      "latitude" : "51.32156183487772",
+      "name" : "Spitfire Cafe",
+      "id" : "26111B1F-C674-4B24-8670-01D829EF8B46",
+      "w3w" : "",
+      "longitude" : "0.029148380598645954",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "London Biggin Hill Airport, Westerham, TN16, England"
+    },
+    {
+      "latitude" : "51.1523009",
+      "name" : "Station Cafe",
+      "id" : "20A8A14A-F1E0-4027-BCE0-5B0DC81E2C54",
+      "w3w" : "",
+      "longitude" : "-0.9671187",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Alton Railway Station, Station Road, Alton, GU34 2PZ, England"
+    },
+    {
+      "latitude" : "50.81650890173382",
+      "name" : "Steff’s place",
+      "id" : "C4DFBC05-B445-4D30-9FDE-BA2BC066AFF0",
+      "w3w" : "",
+      "longitude" : "-1.451680116906085",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Fairweathers Garden Centre, High Street, Beaulieu, Brockenhurst, SO42 7YB, England"
+    },
+    {
+      "latitude" : "52.08736221429332",
+      "name" : "Super Sausage",
+      "id" : "89EDB890-D283-4B64-802C-9BF4FC378A43",
+      "w3w" : "",
+      "longitude" : "-0.9075171496689889",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "95 Nelson House, Watling Street, Potterspury, Towcester, NN12 7QD, England"
+    },
+    {
+      "latitude" : "52.30158765449739",
+      "name" : "Sywell Aerodrome",
+      "id" : "5F315C94-B5CD-4C4A-AB37-8F09013CE705",
+      "w3w" : "",
+      "longitude" : "-0.7903727766697213",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Sywell Aerodrome, Hall Farm, Sywell Airport Business Park, Wellingborough Road, Sywell, Northampton, NN6 0BN, England"
+    },
+    {
+      "latitude" : "52.13960557036582",
+      "name" : "The Bike Sanctuary",
+      "id" : "118E7A9B-B28A-4F0D-90C0-CDA1ECB60F64",
+      "w3w" : "",
+      "longitude" : "-0.831931041683003",
+      "notes" : [
+        "According to Google this is closed and is the site of KH Motorcycles of Milton Keynes "
+      ],
+      "website" : "",
+      "address" : "The Old Woodyard, Forest Road, Milton Keynes, MK19 7DE, England"
+    },
+    {
+      "latitude" : "50.73496",
+      "name" : "The bikers loft",
+      "id" : "F40D5EDC-AE9C-4425-9617-11FFC36E9266",
+      "w3w" : "",
+      "longitude" : "-2.020261",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Rocktime, Factory Road, Poole, BH16 5SN, England"
+    },
+    {
+      "latitude" : "51.316812461960076",
+      "name" : "The Coffee Shop",
+      "id" : "21D8C9E5-BEB1-438F-9187-113A0CB8F0B4",
+      "w3w" : "",
+      "longitude" : "-1.025242259010484",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Post Office Flat, Reading Road, Sherfield-On-Loddon, Hook, RG27 0EX, England"
+    },
+    {
+      "latitude" : "51.886029662788694",
+      "name" : "The Old Shed",
+      "id" : "C7B4BFE2-A34B-4E51-8616-966ED33AC458",
+      "w3w" : "",
+      "longitude" : "-1.4717888691592942",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Cotswold View Caravan & Camping, Banbury Hill Farm, Enstone Road, Charlbury, Chipping Norton, OX7 3JH, England"
+    },
+    {
+      "latitude" : "52.202924187277056",
+      "name" : "The Piston Club",
+      "id" : "93DFFB69-C4C7-4458-8B33-323004DA1F37",
+      "w3w" : "",
+      "longitude" : "-1.7955122095032439",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Stag, Alcester Road, Alcester, B49 6NQ, England"
+    },
+    {
+      "latitude" : "50.8119386",
+      "name" : "The Rolling Scones",
+      "id" : "873DA45F-9866-4DF4-BCE3-E7AE26C09FBF",
+      "w3w" : "",
+      "longitude" : "-1.1695845",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "19 Rowner Road, Gosport, PO13 9UB, England"
+    },
+    {
+      "latitude" : "51.2871742",
+      "name" : "The Shack Cafe",
+      "id" : "2C2CCE34-31A6-4850-A09D-478A6A8691D1",
+      "w3w" : "",
+      "longitude" : "-0.9467585",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Shack, London Road, Hook, RG27 9EH, England"
+    },
+    {
+      "latitude" : "51.223588059736194",
+      "name" : "Too Fast Too Filling",
+      "id" : "9B1B9B15-BA62-4C47-8FAD-0933896E21A8",
+      "w3w" : "",
+      "longitude" : "-1.4410132782741316",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Commercial Centre, Walworth Road, Picket Piece, Andover, SP11 6RU, England"
+    },
+    {
+      "latitude" : "51.09976458971304",
+      "name" : "Torque Moto Cafe",
+      "id" : "ADF2B5A8-B8A9-41C1-AD90-891E9FD8FD65",
+      "w3w" : "",
+      "longitude" : "-0.31930677034910665",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Graylands Estate, Langhurstwood Road, Horsham, RH12 4QD, England"
+    },
+    {
+      "latitude" : "52.19064107000342",
+      "name" : "Touchdown Cafe",
+      "id" : "D5F08088-3A8B-419E-9D04-80E2D017F27E",
+      "w3w" : "",
+      "longitude" : "-1.6184569892729124",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Wellesbourne Mountford Airfield, Airfield Estate, Loxley Lane, Wellesbourne, Warwick, CV35 9EU, England"
+    },
+    {
+      "latitude" : "52.3761395",
+      "name" : "Two Hoots",
+      "id" : "B1E82256-3E52-403D-8599-4A12EC7E029B",
+      "w3w" : "",
+      "longitude" : "-3.8546106",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Vale of Rheidol Light Railway, Devils Bridge, Aberystwyth, SY23 3JL, Wales"
+    },
+    {
+      "latitude" : "51.7882473",
+      "name" : "Vintage Metals",
+      "id" : "957A9596-D99B-45F2-AFF2-104AC360645F",
+      "w3w" : "",
+      "longitude" : "-2.6131175",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Mushet Business Centre, Mushet Industrial Park, Crucible Close, Coleford, GL16 8RE, England"
+    },
+    {
+      "latitude" : "51.6546418727137",
+      "name" : "Wandering Kitchen",
+      "id" : "2C9CFAAD-E8D4-4EC9-B482-E45EF63614DB",
+      "w3w" : "",
+      "longitude" : "-1.1635523429457555",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Oxford Wet n Wild, 1 Lakeside View, Drayton Road, Dorchester On Thames, Wallingford, OX10 7PQ, England"
+    },
+    {
+      "latitude" : "51.6197",
+      "name" : "Waterfront Café",
+      "id" : "1DDC4470-3B39-4D49-A77C-3992DC3E821A",
+      "w3w" : "",
+      "longitude" : "-1.1151",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Benson, OX10 6SJ"
+    },
+    {
+      "latitude" : "51.1413841",
+      "name" : "Winchester Auto Barn",
+      "id" : "53C03A0A-C6A0-4088-962D-100B896CF5D1",
+      "w3w" : "",
+      "longitude" : "-1.3832635",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Winchester Auto Barn, Sutton Scotney, Winchester, SO21 3NS, England"
+    },
+    {
+      "latitude" : "51.14129000300375",
+      "name" : "Winchester autobarn ",
+      "id" : "C919175C-D780-4D4B-81C9-4606D1A5F2FE",
+      "w3w" : "",
+      "longitude" : "-1.3833593945197593",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "Winchester Auto Barn, Sutton Scotney, Winchester, SO21 3NS, England"
+    },
+    {
+      "latitude" : "52.164637",
+      "name" : "Wings and wheels",
+      "id" : "5E0D9B5A-30E8-4C46-9D0E-0FADD79AC8DA",
+      "w3w" : "",
+      "longitude" : "-1.8538141",
+      "notes" : [
+
+      ],
+      "website" : "",
+      "address" : "The Old Vicarage, High Street, Bidford-On-Avon, Alcester, B50 4BQ, England"
+    }
+  ],
+  "settings" : {
+    "symbolName" : "cup.and.heat.waves.fill"
+  }
+}
