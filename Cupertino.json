@@ -1,0 +1,43 @@
+{
+  "cafes" : [
+    {
+      "latitude" : "37.3372835",
+      "name" : "Brew Bytes",
+      "website" : "",
+      "address" : "Oakmont Produce Market, 19998 E Homestead Rd, Cupertino, CA  95014, United States",
+      "w3w" : "",
+      "longitude" : "-122.0228396",
+      "notes" : [
+
+      ],
+      "id" : "00C828C5-D4C4-4EBB-9782-13011FC1A4AB"
+    },
+    {
+      "name" : "Caffè Macs",
+      "longitude" : "-122.0053545",
+      "address" : "Apple Park Visitor Center, 10600 N Tantau Ave, Cupertino, CA  95014, United States",
+      "website" : "",
+      "notes" : [
+
+      ],
+      "latitude" : "37.3328351",
+      "w3w" : "",
+      "id" : "C00BCCD6-2F7F-423B-90E6-E6E7190F9DC4"
+    },
+    {
+      "name" : "Voyager Craft Coffee",
+      "longitude" : "-122.0383154",
+      "address" : "20807 Stevens Creek Blvd, Cupertino, CA  95014, United States",
+      "website" : "",
+      "notes" : [
+
+      ],
+      "latitude" : "37.3231109",
+      "w3w" : "",
+      "id" : "B8719637-B5E6-4A84-8395-26D0FCA36385"
+    }
+  ],
+  "settings" : {
+    "symbolName" : "cup.and.heat.waves.fill"
+  }
+}
